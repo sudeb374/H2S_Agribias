@@ -1,0 +1,26 @@
+{
+    "Baseline": {
+        "Accuracy": 0.716,
+        "Demographic_Parity_Diff": 0.239,
+        "Disparate_Impact_Ratio": 0.485,
+        "Equalized_Odds_Diff": 0.2,
+        "Equity_Score": 78.0
+    },
+    "Mitigated": {
+        "Accuracy": 0.722,
+        "Demographic_Parity_Diff": 0.003,
+        "Disparate_Impact_Ratio": 0.99,
+        "Equalized_Odds_Diff": 0.094,
+        "Equity_Score": 95.2
+    },
+    "SHAP_Analysis": {
+        "Top_Features": [
+            "Crop_Damage_Pct",
+            "Advisory_Score",
+            "Irrigation_Type_Rain-fed",
+            "Farmer_Scale_Small/Marginal",
+            "State_Assam"
+        ],
+        "Flagged_Proxies": []
+    }
+}

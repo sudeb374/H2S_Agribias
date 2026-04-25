@@ -1,0 +1,12 @@
+pyautogen
+aif360
+fairlearn
+shap
+xgboost
+scikit-learn
+pandas
+numpy
+streamlit
+plotly
+folium
+pdfkit

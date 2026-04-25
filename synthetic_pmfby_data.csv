@@ -1,0 +1,1103 @@
+Farmer_ID,State,Crop,Irrigation_Type,Farmer_Scale,Crop_Damage_Pct,Advisory_Score,Insurance_Approval
+F_1000,Bihar,Jute,Rain-fed,Small/Marginal,6.57,38.21,0
+F_1001,Odisha,Rice,Rain-fed,Large,88.71,42.12,0
+F_1002,Bihar,Soybean,Rain-fed,Small/Marginal,41.98,15.01,0
+F_1003,Gujarat,Groundnut,Rain-fed,Large,49.69,83.3,1
+F_1004,Uttar Pradesh,Cotton,Irrigated,Small/Marginal,91.69,61.79,1
+F_1005,Odisha,Tur,Irrigated,Large,77.63,54.87,1
+F_1006,Uttar Pradesh,Mustard,Irrigated,Large,13.05,86.83,0
+F_1007,Chhattisgarh,Groundnut,Irrigated,Small/Marginal,56.54,22.73,0
+F_1008,Odisha,Rice,Rain-fed,Small/Marginal,44.23,42.25,0
+F_1009,Karnataka,Wheat,Irrigated,Small/Marginal,79.72,78.92,0
+F_1010,Haryana,Wheat,Rain-fed,Small/Marginal,72.42,57.12,1
+F_1011,Tamil Nadu,Moong,Rain-fed,Small/Marginal,69.04,18.65,1
+F_1012,Assam,Cotton,Rain-fed,Small/Marginal,34.05,24.73,0
+F_1013,Punjab,Barley,Rain-fed,Small/Marginal,80.5,59.43,1
+F_1014,Assam,Rice,Rain-fed,Small/Marginal,5.24,7.28,0
+F_1015,Gujarat,Rice,Irrigated,Small/Marginal,15.96,57.98,1
+F_1016,Gujarat,Sugarcane,Rain-fed,Small/Marginal,33.56,48.82,0
+F_1017,Punjab,Tur,Rain-fed,Large,7.68,92.17,0
+F_1018,Punjab,Barley,Rain-fed,Small/Marginal,23.5,57.07,0
+F_1019,Madhya Pradesh,Tur,Irrigated,Small/Marginal,83.02,62.44,1
+F_1020,Maharashtra,Jute,Rain-fed,Small/Marginal,94.83,37.24,1
+F_1021,Haryana,Jute,Irrigated,Large,30.46,100.0,1
+F_1022,Assam,Soybean,Rain-fed,Large,26.45,32.06,0
+F_1023,Jharkhand,Moong,Irrigated,Large,27.99,30.46,1
+F_1024,Haryana,Millet,Rain-fed,Large,27.77,97.9,0
+F_1025,Karnataka,Wheat,Irrigated,Small/Marginal,3.59,67.76,0
+F_1026,Chhattisgarh,Mustard,Irrigated,Large,92.69,63.75,0
+F_1027,Assam,Jute,Rain-fed,Large,21.37,71.8,0
+F_1028,Uttar Pradesh,Barley,Rain-fed,Small/Marginal,42.0,48.37,0
+F_1029,West Bengal,Rice,Rain-fed,Large,0.97,99.81,0
+F_1030,Andhra Pradesh,Mustard,Rain-fed,Small/Marginal,85.8,60.7,0
+F_1031,Uttar Pradesh,Gram,Rain-fed,Small/Marginal,73.12,81.26,0
+F_1032,Punjab,Tur,Irrigated,Small/Marginal,94.68,66.62,1
+F_1033,Assam,Jute,Rain-fed,Small/Marginal,78.16,17.36,1
+F_1034,Rajasthan,Rice,Rain-fed,Small/Marginal,31.37,74.35,0
+F_1035,Chhattisgarh,Jute,Rain-fed,Small/Marginal,24.79,10.64,0
+F_1036,Punjab,Wheat,Rain-fed,Small/Marginal,69.77,50.68,0
+F_1037,Jharkhand,Gram,Irrigated,Small/Marginal,36.41,51.19,1
+F_1038,Jharkhand,Groundnut,Rain-fed,Large,56.62,57.79,0
+F_1039,Andhra Pradesh,Jute,Irrigated,Small/Marginal,0.63,85.91,0
+F_1040,Gujarat,Barley,Irrigated,Small/Marginal,6.19,87.99,0
+F_1041,Bihar,Jute,Irrigated,Large,53.54,70.89,1
+F_1042,Odisha,Millet,Irrigated,Large,56.61,60.28,1
+F_1043,Maharashtra,Mustard,Rain-fed,Small/Marginal,75.15,42.64,0
+F_1044,Odisha,Mustard,Irrigated,Large,13.2,55.75,0
+F_1045,Bihar,Wheat,Rain-fed,Large,51.32,52.02,0
+F_1046,Maharashtra,Barley,Rain-fed,Large,19.44,64.05,0
+F_1047,Jharkhand,Gram,Irrigated,Small/Marginal,9.32,34.58,0
+F_1048,Rajasthan,Sugarcane,Irrigated,Small/Marginal,41.05,75.42,1
+F_1049,Punjab,Barley,Irrigated,Small/Marginal,16.33,73.36,0
+F_1050,Bihar,Mustard,Rain-fed,Small/Marginal,22.18,36.36,0
+F_1051,Uttar Pradesh,Millet,Rain-fed,Small/Marginal,31.76,66.76,0
+F_1052,Maharashtra,Groundnut,Irrigated,Small/Marginal,25.94,63.78,0
+F_1053,Assam,Wheat,Rain-fed,Small/Marginal,8.76,44.16,0
+F_1054,Tamil Nadu,Sugarcane,Irrigated,Small/Marginal,8.99,63.06,0
+F_1055,Chhattisgarh,Millet,Irrigated,Small/Marginal,19.32,51.17,0
+F_1056,Rajasthan,Gram,Rain-fed,Large,5.06,65.37,0
+F_1057,Madhya Pradesh,Tur,Rain-fed,Small/Marginal,62.65,69.04,1
+F_1058,Assam,Gram,Rain-fed,Small/Marginal,28.73,60.74,0
+F_1059,Bihar,Millet,Rain-fed,Large,27.97,50.71,0
+F_1060,Tamil Nadu,Tur,Irrigated,Small/Marginal,33.2,54.34,0
+F_1061,Rajasthan,Cotton,Rain-fed,Small/Marginal,66.28,60.69,0
+F_1062,Gujarat,Wheat,Irrigated,Large,87.06,99.72,0
+F_1063,Assam,Barley,Rain-fed,Small/Marginal,75.91,32.08,0
+F_1064,Gujarat,Tur,Irrigated,Large,72.75,89.44,1
+F_1065,Jharkhand,Moong,Rain-fed,Small/Marginal,48.44,5.94,0
+F_1066,Chhattisgarh,Tur,Rain-fed,Small/Marginal,69.38,27.95,1
+F_1067,Odisha,Rice,Rain-fed,Small/Marginal,55.28,35.87,0
+F_1068,Punjab,Groundnut,Irrigated,Small/Marginal,21.63,61.2,0
+F_1069,Maharashtra,Rice,Irrigated,Large,20.86,100.0,1
+F_1070,Maharashtra,Barley,Irrigated,Small/Marginal,29.64,31.66,0
+F_1071,Chhattisgarh,Barley,Rain-fed,Small/Marginal,91.08,32.12,1
+F_1072,Punjab,Wheat,Rain-fed,Small/Marginal,54.74,51.52,0
+F_1073,Jharkhand,Barley,Rain-fed,Small/Marginal,73.39,10.11,1
+F_1074,Tamil Nadu,Mustard,Rain-fed,Small/Marginal,34.66,52.62,0
+F_1075,Bihar,Tur,Rain-fed,Small/Marginal,40.77,16.61,0
+F_1076,Gujarat,Tur,Irrigated,Small/Marginal,12.56,80.05,1
+F_1077,Assam,Cotton,Irrigated,Small/Marginal,17.13,48.02,0
+F_1078,Karnataka,Sugarcane,Irrigated,Small/Marginal,82.74,58.54,1
+F_1079,Assam,Barley,Irrigated,Small/Marginal,58.48,29.03,0
+F_1080,Bihar,Rice,Rain-fed,Small/Marginal,33.75,14.91,0
+F_1081,Uttar Pradesh,Barley,Rain-fed,Large,80.29,54.36,1
+F_1082,Odisha,Gram,Rain-fed,Small/Marginal,24.65,44.76,0
+F_1083,Chhattisgarh,Cotton,Irrigated,Small/Marginal,97.6,50.91,1
+F_1084,Andhra Pradesh,Mustard,Rain-fed,Small/Marginal,34.48,35.71,0
+F_1085,Andhra Pradesh,Mustard,Rain-fed,Small/Marginal,33.73,68.11,0
+F_1086,Gujarat,Jute,Rain-fed,Small/Marginal,31.19,49.29,0
+F_1087,Jharkhand,Tur,Rain-fed,Small/Marginal,12.21,21.87,0
+F_1088,Rajasthan,Mustard,Irrigated,Large,11.11,83.62,0
+F_1089,Chhattisgarh,Tur,Irrigated,Small/Marginal,64.81,30.45,1
+F_1090,Assam,Jute,Rain-fed,Large,87.51,58.35,0
+F_1091,Bihar,Millet,Irrigated,Large,79.05,85.84,1
+F_1092,Tamil Nadu,Groundnut,Irrigated,Small/Marginal,14.11,86.57,0
+F_1093,Jharkhand,Soybean,Rain-fed,Small/Marginal,54.56,20.98,0
+F_1094,Jharkhand,Mustard,Rain-fed,Small/Marginal,10.56,6.97,0
+F_1095,Punjab,Sugarcane,Rain-fed,Small/Marginal,4.53,63.06,0
+F_1096,Tamil Nadu,Gram,Rain-fed,Large,65.64,80.58,0
+F_1097,Odisha,Maize,Irrigated,Small/Marginal,53.52,66.61,0
+F_1098,Uttar Pradesh,Millet,Rain-fed,Small/Marginal,8.2,72.39,0
+F_1099,Jharkhand,Mustard,Irrigated,Large,3.49,70.71,0
+F_1100,West Bengal,Tur,Rain-fed,Small/Marginal,98.98,81.79,1
+F_1101,Uttar Pradesh,Groundnut,Rain-fed,Small/Marginal,3.0,59.46,0
+F_1102,Rajasthan,Jute,Rain-fed,Small/Marginal,44.45,51.65,0
+F_1103,Andhra Pradesh,Rice,Rain-fed,Small/Marginal,50.46,26.99,0
+F_1104,Odisha,Maize,Rain-fed,Large,11.73,40.74,0
+F_1105,Gujarat,Groundnut,Irrigated,Small/Marginal,16.91,67.32,0
+F_1106,Rajasthan,Groundnut,Rain-fed,Small/Marginal,35.18,50.29,0
+F_1107,Jharkhand,Mustard,Irrigated,Small/Marginal,76.17,51.3,1
+F_1108,Assam,Millet,Rain-fed,Small/Marginal,50.71,21.83,0
+F_1109,Gujarat,Moong,Rain-fed,Small/Marginal,63.79,68.97,0
+F_1110,Andhra Pradesh,Maize,Rain-fed,Small/Marginal,98.52,61.64,1
+F_1111,West Bengal,Wheat,Rain-fed,Small/Marginal,76.8,69.95,0
+F_1112,Karnataka,Soybean,Rain-fed,Large,43.44,100.0,1
+F_1113,Chhattisgarh,Wheat,Rain-fed,Small/Marginal,44.64,31.68,0
+F_1114,Odisha,Moong,Rain-fed,Small/Marginal,61.88,47.12,0
+F_1115,Uttar Pradesh,Tur,Rain-fed,Small/Marginal,66.54,48.37,0
+F_1116,Jharkhand,Tur,Rain-fed,Large,50.07,49.19,0
+F_1117,Maharashtra,Gram,Rain-fed,Small/Marginal,64.49,52.78,0
+F_1118,West Bengal,Maize,Irrigated,Small/Marginal,2.35,90.07,0
+F_1119,Chhattisgarh,Wheat,Irrigated,Large,42.96,55.54,1
+F_1120,Odisha,Tur,Rain-fed,Small/Marginal,27.89,31.67,0
+F_1121,Chhattisgarh,Moong,Rain-fed,Small/Marginal,12.92,35.66,0
+F_1122,Assam,Mustard,Irrigated,Small/Marginal,9.95,39.74,0
+F_1123,Jharkhand,Cotton,Irrigated,Small/Marginal,60.32,25.86,0
+F_1124,Karnataka,Jute,Rain-fed,Large,52.36,87.73,1
+F_1125,Punjab,Cotton,Irrigated,Small/Marginal,25.36,43.84,0
+F_1126,Chhattisgarh,Barley,Rain-fed,Small/Marginal,47.1,50.88,1
+F_1127,Chhattisgarh,Wheat,Rain-fed,Large,49.22,59.89,0
+F_1128,Odisha,Gram,Irrigated,Small/Marginal,19.5,58.44,0
+F_1129,Rajasthan,Barley,Rain-fed,Small/Marginal,65.21,55.32,0
+F_1130,Madhya Pradesh,Tur,Irrigated,Small/Marginal,78.09,84.59,1
+F_1131,Andhra Pradesh,Rice,Irrigated,Small/Marginal,79.15,71.77,1
+F_1132,Jharkhand,Sugarcane,Rain-fed,Small/Marginal,60.25,34.87,1
+F_1133,Jharkhand,Rice,Rain-fed,Small/Marginal,51.16,28.11,0
+F_1134,Odisha,Moong,Rain-fed,Small/Marginal,6.1,48.49,0
+F_1135,Jharkhand,Maize,Rain-fed,Small/Marginal,28.78,35.05,0
+F_1136,Rajasthan,Groundnut,Irrigated,Large,9.33,82.63,0
+F_1137,Maharashtra,Jute,Rain-fed,Small/Marginal,96.38,75.0,1
+F_1138,Haryana,Wheat,Rain-fed,Small/Marginal,13.51,82.35,0
+F_1139,Jharkhand,Gram,Irrigated,Small/Marginal,15.18,41.43,0
+F_1140,Jharkhand,Gram,Rain-fed,Small/Marginal,88.96,47.07,1
+F_1141,Andhra Pradesh,Moong,Irrigated,Small/Marginal,94.39,61.13,0
+F_1142,Tamil Nadu,Millet,Rain-fed,Small/Marginal,76.58,65.65,1
+F_1143,Odisha,Tur,Irrigated,Small/Marginal,0.54,72.27,0
+F_1144,Assam,Sugarcane,Rain-fed,Large,0.13,83.93,0
+F_1145,Jharkhand,Soybean,Rain-fed,Small/Marginal,37.81,35.24,0
+F_1146,Assam,Soybean,Rain-fed,Large,14.34,61.71,0
+F_1147,Maharashtra,Soybean,Rain-fed,Small/Marginal,1.84,50.38,0
+F_1148,Punjab,Wheat,Irrigated,Large,46.41,87.24,1
+F_1149,Chhattisgarh,Soybean,Irrigated,Small/Marginal,94.31,40.53,1
+F_1150,Karnataka,Mustard,Irrigated,Large,32.38,82.36,0
+F_1151,Andhra Pradesh,Cotton,Rain-fed,Small/Marginal,66.11,60.79,1
+F_1152,Rajasthan,Gram,Rain-fed,Small/Marginal,65.22,54.06,0
+F_1153,Uttar Pradesh,Sugarcane,Rain-fed,Small/Marginal,25.11,52.34,0
+F_1154,Rajasthan,Cotton,Rain-fed,Small/Marginal,65.04,73.96,0
+F_1155,Gujarat,Groundnut,Irrigated,Small/Marginal,21.23,55.05,1
+F_1156,Haryana,Sugarcane,Rain-fed,Small/Marginal,12.2,46.66,0
+F_1157,Chhattisgarh,Cotton,Rain-fed,Small/Marginal,70.14,23.82,0
+F_1158,Jharkhand,Sugarcane,Rain-fed,Small/Marginal,11.34,48.26,0
+F_1159,Bihar,Groundnut,Irrigated,Small/Marginal,99.69,45.68,1
+F_1160,Uttar Pradesh,Barley,Irrigated,Small/Marginal,18.35,82.85,0
+F_1161,Assam,Mustard,Irrigated,Large,59.41,75.33,1
+F_1162,Maharashtra,Wheat,Rain-fed,Small/Marginal,41.14,58.24,0
+F_1163,Bihar,Wheat,Rain-fed,Large,12.64,63.64,0
+F_1164,Bihar,Moong,Irrigated,Small/Marginal,2.78,53.06,0
+F_1165,Odisha,Tur,Irrigated,Large,62.27,46.44,1
+F_1166,Madhya Pradesh,Gram,Rain-fed,Large,80.68,96.58,1
+F_1167,Andhra Pradesh,Soybean,Irrigated,Small/Marginal,84.2,100.0,1
+F_1168,West Bengal,Mustard,Irrigated,Small/Marginal,48.27,62.74,1
+F_1169,Chhattisgarh,Rice,Irrigated,Small/Marginal,77.75,58.85,1
+F_1170,Jharkhand,Soybean,Irrigated,Large,67.28,61.85,1
+F_1171,Tamil Nadu,Tur,Rain-fed,Small/Marginal,72.43,43.57,0
+F_1172,Bihar,Gram,Rain-fed,Small/Marginal,49.26,36.19,0
+F_1173,Chhattisgarh,Maize,Rain-fed,Small/Marginal,63.34,20.96,1
+F_1174,Odisha,Tur,Irrigated,Large,80.55,71.28,1
+F_1175,Assam,Mustard,Irrigated,Large,39.79,93.92,0
+F_1176,Maharashtra,Cotton,Irrigated,Large,80.6,100.0,1
+F_1177,Madhya Pradesh,Sugarcane,Rain-fed,Small/Marginal,59.2,63.88,0
+F_1178,Bihar,Rice,Irrigated,Small/Marginal,16.59,39.69,0
+F_1179,Andhra Pradesh,Mustard,Irrigated,Small/Marginal,2.47,85.61,0
+F_1180,Tamil Nadu,Groundnut,Irrigated,Small/Marginal,36.28,74.95,0
+F_1181,Jharkhand,Maize,Irrigated,Small/Marginal,54.67,44.92,0
+F_1182,Rajasthan,Groundnut,Irrigated,Small/Marginal,83.98,84.39,1
+F_1183,Andhra Pradesh,Wheat,Rain-fed,Small/Marginal,12.75,63.56,0
+F_1184,Jharkhand,Moong,Rain-fed,Small/Marginal,80.02,32.69,0
+F_1185,Odisha,Wheat,Rain-fed,Large,86.3,61.64,1
+F_1186,Assam,Tur,Rain-fed,Small/Marginal,15.07,7.22,0
+F_1187,Madhya Pradesh,Soybean,Irrigated,Large,85.16,93.66,1
+F_1188,Jharkhand,Cotton,Irrigated,Small/Marginal,99.15,48.84,1
+F_1189,Assam,Rice,Rain-fed,Small/Marginal,72.68,22.69,1
+F_1190,Assam,Tur,Rain-fed,Small/Marginal,78.48,12.87,1
+F_1191,Rajasthan,Jute,Irrigated,Small/Marginal,99.44,70.43,1
+F_1192,West Bengal,Maize,Rain-fed,Small/Marginal,60.55,33.5,0
+F_1193,Odisha,Maize,Rain-fed,Small/Marginal,30.79,0.0,0
+F_1194,Jharkhand,Tur,Rain-fed,Small/Marginal,83.75,10.0,0
+F_1195,Andhra Pradesh,Tur,Rain-fed,Small/Marginal,61.45,42.82,0
+F_1196,Bihar,Mustard,Rain-fed,Small/Marginal,58.12,13.6,0
+F_1197,West Bengal,Soybean,Rain-fed,Large,25.36,87.47,0
+F_1198,Maharashtra,Wheat,Rain-fed,Large,75.63,70.73,0
+F_1199,West Bengal,Moong,Irrigated,Small/Marginal,8.17,62.15,0
+F_1200,Bihar,Soybean,Rain-fed,Small/Marginal,92.43,47.1,0
+F_1201,Assam,Sugarcane,Irrigated,Large,32.58,100.0,0
+F_1202,Bihar,Mustard,Rain-fed,Large,12.78,82.21,0
+F_1203,Andhra Pradesh,Mustard,Rain-fed,Small/Marginal,44.24,27.99,0
+F_1204,Gujarat,Rice,Irrigated,Large,4.25,100.0,0
+F_1205,Chhattisgarh,Cotton,Rain-fed,Small/Marginal,68.46,32.21,0
+F_1206,Assam,Moong,Rain-fed,Large,90.27,48.23,1
+F_1207,Assam,Gram,Rain-fed,Large,83.73,81.21,1
+F_1208,Jharkhand,Barley,Irrigated,Small/Marginal,12.74,51.09,0
+F_1209,Chhattisgarh,Gram,Rain-fed,Small/Marginal,12.63,27.12,0
+F_1210,Madhya Pradesh,Tur,Rain-fed,Large,81.34,78.84,1
+F_1211,Uttar Pradesh,Millet,Irrigated,Small/Marginal,92.43,60.38,1
+F_1212,Assam,Millet,Rain-fed,Small/Marginal,46.07,11.49,0
+F_1213,Odisha,Mustard,Irrigated,Large,49.9,67.53,0
+F_1214,Punjab,Soybean,Irrigated,Small/Marginal,31.83,79.07,0
+F_1215,Madhya Pradesh,Sugarcane,Irrigated,Small/Marginal,89.43,65.5,1
+F_1216,Odisha,Rice,Rain-fed,Small/Marginal,64.49,29.99,0
+F_1217,Chhattisgarh,Jute,Irrigated,Small/Marginal,28.83,36.48,0
+F_1218,Tamil Nadu,Millet,Rain-fed,Small/Marginal,29.88,45.82,0
+F_1219,Tamil Nadu,Rice,Rain-fed,Small/Marginal,89.12,66.35,1
+F_1220,Chhattisgarh,Mustard,Rain-fed,Small/Marginal,1.36,29.96,0
+F_1221,Rajasthan,Cotton,Irrigated,Small/Marginal,32.27,86.74,0
+F_1222,Madhya Pradesh,Groundnut,Rain-fed,Small/Marginal,55.44,50.78,0
+F_1223,Karnataka,Gram,Rain-fed,Small/Marginal,14.82,52.03,0
+F_1224,Jharkhand,Sugarcane,Rain-fed,Small/Marginal,9.21,60.95,0
+F_1225,Gujarat,Wheat,Irrigated,Small/Marginal,81.53,74.49,0
+F_1226,Assam,Tur,Irrigated,Small/Marginal,89.44,29.25,0
+F_1227,Madhya Pradesh,Rice,Irrigated,Small/Marginal,82.36,67.27,1
+F_1228,Assam,Cotton,Rain-fed,Small/Marginal,89.88,44.94,0
+F_1229,Maharashtra,Jute,Rain-fed,Large,55.31,57.35,1
+F_1230,Chhattisgarh,Barley,Irrigated,Small/Marginal,81.23,62.53,0
+F_1231,Karnataka,Gram,Rain-fed,Small/Marginal,38.4,48.81,0
+F_1232,Andhra Pradesh,Wheat,Rain-fed,Small/Marginal,66.63,96.49,1
+F_1233,West Bengal,Gram,Irrigated,Small/Marginal,98.88,74.02,1
+F_1234,Jharkhand,Mustard,Irrigated,Small/Marginal,22.57,41.43,0
+F_1235,Madhya Pradesh,Barley,Irrigated,Small/Marginal,38.99,51.38,1
+F_1236,Rajasthan,Gram,Irrigated,Small/Marginal,48.0,94.86,1
+F_1237,Bihar,Moong,Irrigated,Small/Marginal,13.8,61.58,0
+F_1238,Punjab,Jute,Rain-fed,Small/Marginal,8.1,48.06,0
+F_1239,Assam,Cotton,Rain-fed,Small/Marginal,82.97,9.12,0
+F_1240,Uttar Pradesh,Tur,Irrigated,Small/Marginal,97.68,74.09,1
+F_1241,Jharkhand,Millet,Rain-fed,Small/Marginal,40.47,20.78,0
+F_1242,West Bengal,Barley,Irrigated,Small/Marginal,8.76,45.2,0
+F_1243,Tamil Nadu,Mustard,Rain-fed,Small/Marginal,6.58,58.97,0
+F_1244,Assam,Moong,Rain-fed,Small/Marginal,89.13,9.55,0
+F_1245,Chhattisgarh,Wheat,Irrigated,Small/Marginal,46.38,51.29,0
+F_1246,Rajasthan,Soybean,Irrigated,Small/Marginal,32.0,88.05,1
+F_1247,Rajasthan,Maize,Irrigated,Small/Marginal,47.65,75.15,0
+F_1248,Assam,Rice,Rain-fed,Small/Marginal,31.83,19.59,0
+F_1249,Haryana,Tur,Irrigated,Small/Marginal,48.9,47.05,0
+F_1250,Chhattisgarh,Gram,Rain-fed,Small/Marginal,85.96,45.58,1
+F_1251,Jharkhand,Millet,Rain-fed,Large,59.23,62.96,1
+F_1252,Jharkhand,Barley,Rain-fed,Small/Marginal,69.47,24.91,0
+F_1253,Madhya Pradesh,Gram,Rain-fed,Large,36.47,77.78,1
+F_1254,Chhattisgarh,Groundnut,Rain-fed,Small/Marginal,73.85,36.44,1
+F_1255,Maharashtra,Rice,Irrigated,Small/Marginal,66.66,59.25,0
+F_1256,Bihar,Soybean,Irrigated,Small/Marginal,11.96,61.5,0
+F_1257,Assam,Moong,Irrigated,Small/Marginal,57.26,44.73,0
+F_1258,Haryana,Jute,Rain-fed,Small/Marginal,25.67,38.86,0
+F_1259,Jharkhand,Moong,Irrigated,Large,80.41,73.24,1
+F_1260,Andhra Pradesh,Moong,Irrigated,Small/Marginal,42.59,98.94,0
+F_1261,Chhattisgarh,Maize,Irrigated,Large,99.47,60.92,1
+F_1262,Jharkhand,Cotton,Rain-fed,Small/Marginal,9.25,26.51,0
+F_1263,Chhattisgarh,Moong,Rain-fed,Small/Marginal,78.03,30.96,0
+F_1264,Chhattisgarh,Gram,Rain-fed,Small/Marginal,67.37,54.37,0
+F_1265,Bihar,Soybean,Rain-fed,Small/Marginal,76.75,49.54,0
+F_1266,Odisha,Soybean,Rain-fed,Small/Marginal,30.75,46.63,0
+F_1267,Andhra Pradesh,Jute,Irrigated,Small/Marginal,49.21,82.07,1
+F_1268,Rajasthan,Sugarcane,Rain-fed,Small/Marginal,79.65,49.05,1
+F_1269,Chhattisgarh,Jute,Rain-fed,Small/Marginal,23.25,11.3,0
+F_1270,Maharashtra,Gram,Rain-fed,Small/Marginal,22.6,56.08,0
+F_1271,Jharkhand,Sugarcane,Rain-fed,Large,55.11,39.02,0
+F_1272,Gujarat,Sugarcane,Rain-fed,Small/Marginal,52.36,54.06,0
+F_1273,Haryana,Millet,Rain-fed,Large,28.23,87.36,1
+F_1274,Punjab,Millet,Rain-fed,Large,29.81,94.72,1
+F_1275,Karnataka,Wheat,Irrigated,Large,27.78,100.0,0
+F_1276,Jharkhand,Barley,Irrigated,Small/Marginal,77.15,59.76,1
+F_1277,Haryana,Barley,Rain-fed,Small/Marginal,65.19,38.54,1
+F_1278,Maharashtra,Mustard,Rain-fed,Large,83.24,69.61,1
+F_1279,Haryana,Tur,Irrigated,Small/Marginal,97.55,72.94,1
+F_1280,West Bengal,Cotton,Rain-fed,Small/Marginal,47.42,69.73,0
+F_1281,Punjab,Barley,Rain-fed,Small/Marginal,6.67,30.31,0
+F_1282,Gujarat,Millet,Irrigated,Small/Marginal,4.81,73.1,0
+F_1283,Uttar Pradesh,Wheat,Rain-fed,Small/Marginal,29.57,46.7,0
+F_1284,Andhra Pradesh,Moong,Irrigated,Small/Marginal,93.25,79.71,1
+F_1285,Chhattisgarh,Wheat,Rain-fed,Large,52.32,54.94,0
+F_1286,Odisha,Moong,Rain-fed,Small/Marginal,27.18,22.86,0
+F_1287,Assam,Sugarcane,Rain-fed,Large,39.92,53.96,0
+F_1288,Bihar,Mustard,Irrigated,Small/Marginal,59.86,54.84,0
+F_1289,West Bengal,Tur,Rain-fed,Small/Marginal,65.29,65.35,0
+F_1290,Jharkhand,Jute,Rain-fed,Small/Marginal,15.39,29.65,0
+F_1291,Punjab,Cotton,Irrigated,Small/Marginal,97.7,60.5,0
+F_1292,Chhattisgarh,Gram,Rain-fed,Large,54.48,64.97,0
+F_1293,Rajasthan,Sugarcane,Rain-fed,Small/Marginal,13.57,43.53,0
+F_1294,Chhattisgarh,Jute,Irrigated,Small/Marginal,89.36,16.81,0
+F_1295,Bihar,Barley,Rain-fed,Small/Marginal,7.46,43.96,0
+F_1296,Jharkhand,Mustard,Irrigated,Small/Marginal,90.77,20.02,0
+F_1297,Assam,Sugarcane,Irrigated,Small/Marginal,99.66,40.63,1
+F_1298,Uttar Pradesh,Rice,Irrigated,Small/Marginal,70.04,50.12,1
+F_1299,Bihar,Barley,Rain-fed,Small/Marginal,77.04,38.16,1
+F_1300,Jharkhand,Jute,Irrigated,Large,33.73,71.39,0
+F_1301,Maharashtra,Cotton,Rain-fed,Small/Marginal,94.16,34.34,1
+F_1302,Andhra Pradesh,Gram,Irrigated,Small/Marginal,52.97,62.05,0
+F_1303,Odisha,Jute,Rain-fed,Small/Marginal,73.24,45.39,0
+F_1304,Odisha,Moong,Rain-fed,Large,92.41,40.29,1
+F_1305,Assam,Sugarcane,Rain-fed,Small/Marginal,97.52,30.5,0
+F_1306,Tamil Nadu,Sugarcane,Irrigated,Small/Marginal,83.32,80.84,1
+F_1307,Punjab,Gram,Irrigated,Small/Marginal,30.3,77.45,0
+F_1308,Maharashtra,Soybean,Rain-fed,Large,96.65,70.56,1
+F_1309,Maharashtra,Cotton,Rain-fed,Small/Marginal,62.81,47.59,0
+F_1310,Tamil Nadu,Groundnut,Irrigated,Large,93.06,84.25,1
+F_1311,Jharkhand,Barley,Rain-fed,Small/Marginal,67.61,19.67,0
+F_1312,Odisha,Wheat,Rain-fed,Small/Marginal,30.72,36.34,0
+F_1313,Haryana,Gram,Irrigated,Large,37.0,53.39,1
+F_1314,Maharashtra,Cotton,Rain-fed,Small/Marginal,55.05,39.23,0
+F_1315,Andhra Pradesh,Wheat,Irrigated,Large,79.0,87.12,1
+F_1316,Haryana,Cotton,Rain-fed,Large,31.8,64.04,0
+F_1317,Assam,Cotton,Rain-fed,Large,57.97,65.83,1
+F_1318,Uttar Pradesh,Jute,Rain-fed,Small/Marginal,34.56,41.46,0
+F_1319,Jharkhand,Tur,Irrigated,Large,81.58,58.98,1
+F_1320,Odisha,Moong,Rain-fed,Small/Marginal,46.67,20.82,0
+F_1321,Odisha,Cotton,Irrigated,Large,7.67,25.96,0
+F_1322,Assam,Tur,Rain-fed,Small/Marginal,16.61,16.72,0
+F_1323,Karnataka,Soybean,Irrigated,Large,6.11,97.43,1
+F_1324,Madhya Pradesh,Groundnut,Rain-fed,Small/Marginal,49.93,47.82,1
+F_1325,Karnataka,Sugarcane,Rain-fed,Small/Marginal,10.63,89.4,0
+F_1326,Maharashtra,Maize,Irrigated,Small/Marginal,11.41,49.97,0
+F_1327,Tamil Nadu,Wheat,Rain-fed,Large,94.1,63.65,1
+F_1328,Haryana,Sugarcane,Rain-fed,Small/Marginal,87.27,49.15,1
+F_1329,Rajasthan,Maize,Irrigated,Small/Marginal,45.21,42.27,1
+F_1330,Odisha,Groundnut,Rain-fed,Large,98.58,52.49,1
+F_1331,Odisha,Moong,Irrigated,Small/Marginal,0.02,47.84,0
+F_1332,Chhattisgarh,Groundnut,Rain-fed,Small/Marginal,61.4,27.71,0
+F_1333,Odisha,Wheat,Irrigated,Small/Marginal,61.64,33.75,0
+F_1334,Odisha,Wheat,Rain-fed,Small/Marginal,45.74,31.47,0
+F_1335,Chhattisgarh,Groundnut,Rain-fed,Small/Marginal,39.69,27.74,1
+F_1336,Assam,Maize,Irrigated,Small/Marginal,45.54,37.39,1
+F_1337,Odisha,Gram,Irrigated,Small/Marginal,41.5,42.3,0
+F_1338,Punjab,Cotton,Rain-fed,Small/Marginal,73.05,64.82,0
+F_1339,Bihar,Barley,Rain-fed,Small/Marginal,13.54,20.01,0
+F_1340,Bihar,Mustard,Irrigated,Small/Marginal,19.76,41.99,0
+F_1341,Chhattisgarh,Tur,Rain-fed,Small/Marginal,18.05,17.81,0
+F_1342,Uttar Pradesh,Rice,Irrigated,Large,26.25,100.0,1
+F_1343,Karnataka,Mustard,Irrigated,Small/Marginal,52.53,74.13,1
+F_1344,Haryana,Sugarcane,Rain-fed,Small/Marginal,11.12,73.94,0
+F_1345,Assam,Jute,Rain-fed,Large,86.82,68.15,1
+F_1346,West Bengal,Sugarcane,Irrigated,Large,29.74,92.48,1
+F_1347,Jharkhand,Jute,Rain-fed,Small/Marginal,16.25,0.99,0
+F_1348,Punjab,Maize,Rain-fed,Small/Marginal,67.56,55.0,0
+F_1349,Assam,Jute,Irrigated,Large,3.81,94.77,0
+F_1350,Madhya Pradesh,Wheat,Rain-fed,Small/Marginal,62.0,69.47,0
+F_1351,Rajasthan,Gram,Irrigated,Large,69.82,100.0,1
+F_1352,Andhra Pradesh,Barley,Rain-fed,Small/Marginal,21.49,40.34,0
+F_1353,Gujarat,Barley,Rain-fed,Large,4.2,92.54,0
+F_1354,Assam,Wheat,Rain-fed,Small/Marginal,36.36,25.48,0
+F_1355,Assam,Gram,Rain-fed,Small/Marginal,9.86,31.22,0
+F_1356,West Bengal,Moong,Rain-fed,Small/Marginal,11.65,24.77,0
+F_1357,Karnataka,Soybean,Rain-fed,Small/Marginal,25.43,45.17,0
+F_1358,Bihar,Moong,Irrigated,Small/Marginal,29.55,54.21,0
+F_1359,Andhra Pradesh,Mustard,Rain-fed,Large,53.0,66.96,1
+F_1360,Gujarat,Maize,Rain-fed,Large,67.84,82.31,1
+F_1361,Odisha,Mustard,Rain-fed,Small/Marginal,59.28,37.79,0
+F_1362,Bihar,Soybean,Rain-fed,Large,14.84,64.52,0
+F_1363,Bihar,Soybean,Rain-fed,Large,17.21,43.58,0
+F_1364,Karnataka,Sugarcane,Rain-fed,Small/Marginal,87.88,49.55,0
+F_1365,Bihar,Groundnut,Rain-fed,Small/Marginal,55.84,38.92,0
+F_1366,Karnataka,Sugarcane,Rain-fed,Small/Marginal,86.99,47.65,1
+F_1367,Jharkhand,Groundnut,Rain-fed,Small/Marginal,37.15,14.03,0
+F_1368,Jharkhand,Rice,Irrigated,Small/Marginal,61.44,72.56,1
+F_1369,Jharkhand,Jute,Rain-fed,Large,52.37,77.08,0
+F_1370,Chhattisgarh,Gram,Rain-fed,Small/Marginal,31.91,20.2,0
+F_1371,Punjab,Groundnut,Irrigated,Large,46.99,95.9,1
+F_1372,Karnataka,Moong,Rain-fed,Small/Marginal,50.25,58.88,0
+F_1373,Chhattisgarh,Mustard,Irrigated,Small/Marginal,20.08,52.91,0
+F_1374,Karnataka,Wheat,Rain-fed,Large,31.5,74.02,1
+F_1375,Chhattisgarh,Sugarcane,Rain-fed,Large,79.14,44.43,0
+F_1376,Andhra Pradesh,Gram,Rain-fed,Small/Marginal,91.58,66.91,1
+F_1377,Chhattisgarh,Maize,Rain-fed,Small/Marginal,35.98,52.0,0
+F_1378,Jharkhand,Gram,Irrigated,Small/Marginal,30.7,55.34,0
+F_1379,Madhya Pradesh,Tur,Rain-fed,Small/Marginal,19.52,47.22,0
+F_1380,Andhra Pradesh,Jute,Irrigated,Small/Marginal,67.85,72.74,0
+F_1381,Chhattisgarh,Tur,Rain-fed,Small/Marginal,32.31,38.69,0
+F_1382,Assam,Rice,Rain-fed,Small/Marginal,98.77,10.2,0
+F_1383,Punjab,Groundnut,Rain-fed,Small/Marginal,32.57,52.43,0
+F_1384,Maharashtra,Rice,Rain-fed,Small/Marginal,39.41,72.52,1
+F_1385,Assam,Maize,Rain-fed,Small/Marginal,60.33,28.43,1
+F_1386,Rajasthan,Moong,Irrigated,Small/Marginal,80.17,65.58,1
+F_1387,Maharashtra,Soybean,Irrigated,Small/Marginal,46.95,55.95,1
+F_1388,Rajasthan,Tur,Rain-fed,Large,42.27,99.93,1
+F_1389,Gujarat,Barley,Irrigated,Small/Marginal,99.56,48.53,1
+F_1390,Tamil Nadu,Tur,Irrigated,Large,1.05,100.0,0
+F_1391,Odisha,Maize,Irrigated,Small/Marginal,89.51,44.7,1
+F_1392,Jharkhand,Millet,Rain-fed,Small/Marginal,14.91,30.33,0
+F_1393,Gujarat,Maize,Irrigated,Small/Marginal,78.59,55.8,1
+F_1394,West Bengal,Rice,Rain-fed,Small/Marginal,61.79,57.69,1
+F_1395,Rajasthan,Gram,Irrigated,Small/Marginal,34.18,47.41,1
+F_1396,Jharkhand,Wheat,Rain-fed,Large,87.39,60.97,1
+F_1397,Andhra Pradesh,Sugarcane,Rain-fed,Small/Marginal,1.29,70.25,0
+F_1398,Tamil Nadu,Wheat,Irrigated,Small/Marginal,22.67,66.94,0
+F_1399,Jharkhand,Rice,Rain-fed,Small/Marginal,56.69,39.71,0
+F_1400,Chhattisgarh,Sugarcane,Irrigated,Small/Marginal,35.15,29.12,1
+F_1401,Rajasthan,Millet,Irrigated,Small/Marginal,61.04,56.22,0
+F_1402,Madhya Pradesh,Barley,Irrigated,Small/Marginal,2.41,74.39,0
+F_1403,Chhattisgarh,Jute,Rain-fed,Small/Marginal,11.65,29.16,0
+F_1404,Chhattisgarh,Mustard,Irrigated,Small/Marginal,12.71,56.83,0
+F_1405,Odisha,Rice,Rain-fed,Small/Marginal,18.93,33.95,0
+F_1406,Haryana,Gram,Rain-fed,Small/Marginal,45.93,55.96,0
+F_1407,Assam,Groundnut,Irrigated,Small/Marginal,75.21,27.92,1
+F_1408,Bihar,Rice,Rain-fed,Small/Marginal,90.55,48.15,0
+F_1409,Chhattisgarh,Rice,Rain-fed,Large,83.54,71.53,1
+F_1410,Assam,Tur,Irrigated,Small/Marginal,19.69,36.75,0
+F_1411,Andhra Pradesh,Tur,Rain-fed,Large,44.12,89.15,1
+F_1412,Madhya Pradesh,Sugarcane,Rain-fed,Large,19.94,84.11,0
+F_1413,Madhya Pradesh,Cotton,Irrigated,Small/Marginal,26.45,50.69,1
+F_1414,Haryana,Maize,Rain-fed,Small/Marginal,50.35,44.81,1
+F_1415,Odisha,Gram,Irrigated,Large,6.81,47.01,0
+F_1416,Gujarat,Cotton,Irrigated,Small/Marginal,21.82,44.46,0
+F_1417,Rajasthan,Moong,Irrigated,Small/Marginal,93.54,70.28,1
+F_1418,Jharkhand,Millet,Irrigated,Small/Marginal,46.61,46.83,0
+F_1419,Assam,Groundnut,Rain-fed,Small/Marginal,44.54,21.69,1
+F_1420,Bihar,Tur,Rain-fed,Small/Marginal,1.46,34.25,0
+F_1421,Odisha,Barley,Irrigated,Large,24.74,78.01,1
+F_1422,Assam,Soybean,Irrigated,Small/Marginal,86.63,50.07,1
+F_1423,Assam,Millet,Rain-fed,Small/Marginal,16.46,22.84,0
+F_1424,Assam,Soybean,Rain-fed,Large,41.51,57.27,1
+F_1425,Haryana,Gram,Rain-fed,Small/Marginal,1.43,74.82,0
+F_1426,Tamil Nadu,Gram,Rain-fed,Large,47.83,68.72,1
+F_1427,Rajasthan,Moong,Irrigated,Small/Marginal,2.1,72.92,0
+F_1428,Andhra Pradesh,Soybean,Rain-fed,Small/Marginal,81.96,31.44,1
+F_1429,Assam,Gram,Irrigated,Large,82.49,78.56,1
+F_1430,Andhra Pradesh,Barley,Irrigated,Small/Marginal,78.77,79.24,1
+F_1431,Bihar,Wheat,Rain-fed,Large,28.34,57.6,0
+F_1432,West Bengal,Cotton,Irrigated,Large,83.72,95.95,1
+F_1433,Bihar,Rice,Rain-fed,Large,54.3,71.65,1
+F_1434,Maharashtra,Jute,Rain-fed,Small/Marginal,37.38,41.76,0
+F_1435,Jharkhand,Soybean,Irrigated,Large,62.53,54.39,0
+F_1436,Maharashtra,Groundnut,Irrigated,Small/Marginal,1.23,71.72,0
+F_1437,West Bengal,Millet,Irrigated,Small/Marginal,14.3,72.71,0
+F_1438,Odisha,Wheat,Rain-fed,Large,74.23,61.55,0
+F_1439,Madhya Pradesh,Soybean,Rain-fed,Small/Marginal,24.42,56.65,0
+F_1440,Jharkhand,Wheat,Irrigated,Small/Marginal,59.8,40.9,0
+F_1441,Gujarat,Wheat,Rain-fed,Large,38.51,72.67,1
+F_1442,West Bengal,Soybean,Rain-fed,Small/Marginal,85.48,47.96,1
+F_1443,West Bengal,Sugarcane,Rain-fed,Small/Marginal,95.24,73.51,1
+F_1444,Jharkhand,Maize,Irrigated,Large,88.36,63.82,1
+F_1445,Assam,Groundnut,Rain-fed,Small/Marginal,27.06,3.25,0
+F_1446,Gujarat,Rice,Irrigated,Large,19.42,98.82,1
+F_1447,Chhattisgarh,Rice,Irrigated,Small/Marginal,47.44,61.58,0
+F_1448,Andhra Pradesh,Groundnut,Rain-fed,Small/Marginal,0.73,21.79,0
+F_1449,Uttar Pradesh,Sugarcane,Rain-fed,Small/Marginal,2.58,48.9,0
+F_1450,Chhattisgarh,Tur,Rain-fed,Small/Marginal,55.33,50.04,0
+F_1451,Andhra Pradesh,Gram,Irrigated,Small/Marginal,52.04,75.7,0
+F_1452,Jharkhand,Rice,Rain-fed,Large,99.46,48.35,1
+F_1453,Chhattisgarh,Tur,Rain-fed,Small/Marginal,20.18,27.59,0
+F_1454,Maharashtra,Wheat,Rain-fed,Small/Marginal,25.81,56.99,0
+F_1455,Jharkhand,Barley,Irrigated,Small/Marginal,11.35,48.82,0
+F_1456,Maharashtra,Millet,Rain-fed,Small/Marginal,91.75,64.52,1
+F_1457,Rajasthan,Cotton,Irrigated,Small/Marginal,77.78,100.0,0
+F_1458,Tamil Nadu,Rice,Irrigated,Small/Marginal,82.23,64.92,0
+F_1459,Bihar,Groundnut,Rain-fed,Small/Marginal,90.28,33.52,0
+F_1460,Bihar,Barley,Irrigated,Small/Marginal,52.49,23.51,1
+F_1461,Tamil Nadu,Soybean,Rain-fed,Small/Marginal,45.12,51.09,1
+F_1462,Andhra Pradesh,Moong,Irrigated,Small/Marginal,33.04,63.06,0
+F_1463,Jharkhand,Maize,Irrigated,Small/Marginal,58.92,41.52,1
+F_1464,Maharashtra,Groundnut,Irrigated,Small/Marginal,45.43,51.93,0
+F_1465,Uttar Pradesh,Gram,Rain-fed,Large,45.16,66.06,0
+F_1466,Haryana,Moong,Rain-fed,Small/Marginal,93.69,69.3,1
+F_1467,Rajasthan,Moong,Rain-fed,Large,98.4,66.14,1
+F_1468,Maharashtra,Wheat,Rain-fed,Small/Marginal,79.65,54.02,0
+F_1469,Bihar,Maize,Rain-fed,Small/Marginal,75.68,5.95,1
+F_1470,Assam,Millet,Rain-fed,Large,68.06,39.01,1
+F_1471,Rajasthan,Millet,Rain-fed,Small/Marginal,16.61,90.69,0
+F_1472,Chhattisgarh,Sugarcane,Rain-fed,Large,5.91,61.88,0
+F_1473,Punjab,Tur,Irrigated,Small/Marginal,69.07,63.21,1
+F_1474,Assam,Jute,Rain-fed,Small/Marginal,72.88,15.33,0
+F_1475,Assam,Moong,Rain-fed,Small/Marginal,4.7,16.23,0
+F_1476,Jharkhand,Sugarcane,Rain-fed,Small/Marginal,92.81,53.6,0
+F_1477,Andhra Pradesh,Gram,Rain-fed,Small/Marginal,9.11,63.37,0
+F_1478,Haryana,Tur,Irrigated,Small/Marginal,28.59,24.28,0
+F_1479,Odisha,Moong,Rain-fed,Small/Marginal,67.24,23.64,0
+F_1480,Jharkhand,Barley,Irrigated,Small/Marginal,16.99,23.6,0
+F_1481,Chhattisgarh,Maize,Irrigated,Small/Marginal,5.54,47.02,0
+F_1482,Assam,Jute,Irrigated,Small/Marginal,33.11,46.68,0
+F_1483,Andhra Pradesh,Soybean,Irrigated,Large,76.6,96.55,1
+F_1484,Chhattisgarh,Wheat,Irrigated,Small/Marginal,41.37,48.25,0
+F_1485,Tamil Nadu,Maize,Irrigated,Large,65.3,80.79,1
+F_1486,Assam,Sugarcane,Irrigated,Large,57.96,67.0,1
+F_1487,Assam,Cotton,Rain-fed,Small/Marginal,2.22,33.74,0
+F_1488,Haryana,Mustard,Irrigated,Small/Marginal,98.85,90.96,1
+F_1489,Maharashtra,Jute,Rain-fed,Small/Marginal,4.14,69.54,0
+F_1490,Odisha,Jute,Irrigated,Small/Marginal,96.78,14.18,0
+F_1491,Chhattisgarh,Gram,Rain-fed,Small/Marginal,54.99,65.3,0
+F_1492,Odisha,Wheat,Rain-fed,Small/Marginal,96.32,34.82,0
+F_1493,Karnataka,Rice,Rain-fed,Small/Marginal,11.48,47.82,0
+F_1494,Chhattisgarh,Millet,Rain-fed,Small/Marginal,49.04,37.79,0
+F_1495,Jharkhand,Millet,Rain-fed,Small/Marginal,16.95,15.34,0
+F_1496,Jharkhand,Cotton,Rain-fed,Small/Marginal,5.1,60.31,0
+F_1497,Chhattisgarh,Barley,Rain-fed,Small/Marginal,61.75,30.9,0
+F_1498,Jharkhand,Gram,Rain-fed,Large,20.78,67.25,0
+F_1499,Uttar Pradesh,Barley,Irrigated,Small/Marginal,58.77,69.81,0
+F_1500,Punjab,Soybean,Rain-fed,Small/Marginal,11.24,33.82,0
+F_1501,Jharkhand,Tur,Rain-fed,Small/Marginal,33.2,26.42,0
+F_1502,Maharashtra,Maize,Irrigated,Small/Marginal,78.16,64.32,1
+F_1503,Gujarat,Mustard,Rain-fed,Small/Marginal,43.71,26.96,0
+F_1504,Jharkhand,Groundnut,Rain-fed,Small/Marginal,62.77,2.32,0
+F_1505,Odisha,Rice,Irrigated,Small/Marginal,64.75,56.78,0
+F_1506,Haryana,Sugarcane,Irrigated,Small/Marginal,84.38,55.04,1
+F_1507,Assam,Moong,Rain-fed,Small/Marginal,32.49,29.97,0
+F_1508,Maharashtra,Groundnut,Rain-fed,Small/Marginal,68.73,51.67,0
+F_1509,Gujarat,Tur,Irrigated,Small/Marginal,96.16,64.38,1
+F_1510,Assam,Groundnut,Irrigated,Large,73.02,70.8,1
+F_1511,Haryana,Gram,Rain-fed,Large,48.99,94.57,1
+F_1512,West Bengal,Moong,Irrigated,Small/Marginal,63.07,69.54,1
+F_1513,Rajasthan,Jute,Rain-fed,Large,73.97,91.91,0
+F_1514,Odisha,Cotton,Rain-fed,Small/Marginal,61.23,40.62,0
+F_1515,Maharashtra,Millet,Rain-fed,Small/Marginal,1.67,59.97,0
+F_1516,Bihar,Soybean,Irrigated,Small/Marginal,19.48,47.27,0
+F_1517,Uttar Pradesh,Barley,Rain-fed,Small/Marginal,81.05,28.88,0
+F_1518,Assam,Mustard,Irrigated,Small/Marginal,27.27,35.91,0
+F_1519,Chhattisgarh,Gram,Rain-fed,Small/Marginal,73.16,48.42,1
+F_1520,Tamil Nadu,Cotton,Rain-fed,Small/Marginal,37.21,47.62,0
+F_1521,Maharashtra,Jute,Rain-fed,Large,52.19,78.03,0
+F_1522,Bihar,Sugarcane,Irrigated,Large,6.8,67.0,0
+F_1523,Rajasthan,Soybean,Rain-fed,Small/Marginal,18.12,46.11,0
+F_1524,Haryana,Gram,Rain-fed,Small/Marginal,95.72,55.01,1
+F_1525,Punjab,Jute,Irrigated,Small/Marginal,89.01,67.33,0
+F_1526,Odisha,Mustard,Rain-fed,Small/Marginal,65.23,23.55,0
+F_1527,Punjab,Millet,Irrigated,Small/Marginal,45.96,54.92,0
+F_1528,Haryana,Millet,Rain-fed,Small/Marginal,67.58,38.25,0
+F_1529,Andhra Pradesh,Gram,Irrigated,Small/Marginal,61.86,79.76,0
+F_1530,Rajasthan,Millet,Rain-fed,Large,56.86,40.05,1
+F_1531,Tamil Nadu,Cotton,Irrigated,Small/Marginal,5.92,70.14,0
+F_1532,Assam,Cotton,Rain-fed,Small/Marginal,63.28,44.34,0
+F_1533,Gujarat,Barley,Rain-fed,Small/Marginal,76.89,57.08,0
+F_1534,Tamil Nadu,Gram,Rain-fed,Small/Marginal,99.41,51.06,1
+F_1535,Bihar,Barley,Rain-fed,Small/Marginal,1.11,16.4,0
+F_1536,Chhattisgarh,Gram,Rain-fed,Small/Marginal,73.02,28.91,0
+F_1537,Jharkhand,Sugarcane,Irrigated,Small/Marginal,57.18,60.39,0
+F_1538,Jharkhand,Gram,Rain-fed,Large,43.41,68.73,0
+F_1539,Jharkhand,Mustard,Irrigated,Small/Marginal,12.76,43.71,0
+F_1540,Jharkhand,Tur,Irrigated,Small/Marginal,40.91,55.82,1
+F_1541,Jharkhand,Soybean,Irrigated,Small/Marginal,35.44,40.69,0
+F_1542,West Bengal,Wheat,Rain-fed,Large,30.28,71.42,1
+F_1543,Bihar,Moong,Rain-fed,Small/Marginal,73.09,59.86,1
+F_1544,Haryana,Wheat,Irrigated,Large,70.07,100.0,1
+F_1545,Jharkhand,Jute,Irrigated,Large,58.9,89.54,0
+F_1546,Punjab,Millet,Rain-fed,Small/Marginal,93.87,75.79,1
+F_1547,Madhya Pradesh,Soybean,Rain-fed,Large,34.99,82.82,0
+F_1548,Uttar Pradesh,Groundnut,Rain-fed,Large,24.38,64.91,0
+F_1549,Bihar,Tur,Irrigated,Large,65.59,38.47,1
+F_1550,Chhattisgarh,Cotton,Rain-fed,Small/Marginal,19.88,17.21,0
+F_1551,Bihar,Maize,Rain-fed,Small/Marginal,31.5,31.09,0
+F_1552,Assam,Rice,Irrigated,Small/Marginal,22.46,60.15,0
+F_1553,Haryana,Sugarcane,Rain-fed,Small/Marginal,6.92,36.84,0
+F_1554,Bihar,Millet,Rain-fed,Small/Marginal,82.75,30.71,0
+F_1555,Gujarat,Millet,Irrigated,Small/Marginal,25.45,67.4,0
+F_1556,Uttar Pradesh,Mustard,Irrigated,Large,47.3,90.04,1
+F_1557,Maharashtra,Millet,Rain-fed,Large,4.33,80.04,0
+F_1558,Bihar,Cotton,Rain-fed,Small/Marginal,69.93,56.44,0
+F_1559,Karnataka,Cotton,Rain-fed,Large,33.06,78.13,0
+F_1560,Bihar,Rice,Rain-fed,Large,74.47,59.1,1
+F_1561,Assam,Moong,Irrigated,Small/Marginal,41.24,24.79,0
+F_1562,Gujarat,Gram,Rain-fed,Small/Marginal,19.58,72.16,0
+F_1563,Assam,Groundnut,Rain-fed,Small/Marginal,51.32,45.28,0
+F_1564,Gujarat,Soybean,Rain-fed,Small/Marginal,13.05,31.07,0
+F_1565,Karnataka,Millet,Rain-fed,Small/Marginal,44.05,24.41,0
+F_1566,Rajasthan,Wheat,Rain-fed,Small/Marginal,31.73,66.7,0
+F_1567,Odisha,Barley,Irrigated,Small/Marginal,91.2,50.75,0
+F_1568,Tamil Nadu,Mustard,Rain-fed,Small/Marginal,6.09,33.14,0
+F_1569,Rajasthan,Mustard,Irrigated,Large,69.4,84.33,1
+F_1570,Uttar Pradesh,Moong,Irrigated,Small/Marginal,18.28,66.56,1
+F_1571,Assam,Wheat,Rain-fed,Large,31.9,39.97,1
+F_1572,Chhattisgarh,Jute,Rain-fed,Large,41.55,44.07,0
+F_1573,Madhya Pradesh,Wheat,Rain-fed,Large,90.8,84.56,1
+F_1574,Andhra Pradesh,Tur,Rain-fed,Large,24.26,87.36,1
+F_1575,Bihar,Jute,Rain-fed,Large,9.13,61.92,0
+F_1576,Uttar Pradesh,Maize,Rain-fed,Small/Marginal,31.87,38.94,1
+F_1577,Bihar,Barley,Rain-fed,Small/Marginal,10.47,43.71,0
+F_1578,Bihar,Mustard,Irrigated,Small/Marginal,12.86,40.69,0
+F_1579,Haryana,Wheat,Rain-fed,Small/Marginal,57.39,77.36,1
+F_1580,Haryana,Maize,Irrigated,Small/Marginal,6.09,66.45,0
+F_1581,Karnataka,Gram,Rain-fed,Small/Marginal,3.09,62.88,0
+F_1582,Chhattisgarh,Sugarcane,Irrigated,Large,71.44,71.38,1
+F_1583,Jharkhand,Soybean,Rain-fed,Large,36.16,68.45,0
+F_1584,Gujarat,Maize,Rain-fed,Large,12.54,87.82,0
+F_1585,Chhattisgarh,Moong,Irrigated,Small/Marginal,25.36,62.8,0
+F_1586,Rajasthan,Tur,Rain-fed,Small/Marginal,64.21,58.08,0
+F_1587,Uttar Pradesh,Soybean,Rain-fed,Small/Marginal,27.55,66.08,0
+F_1588,Gujarat,Wheat,Irrigated,Small/Marginal,49.45,74.37,1
+F_1589,Maharashtra,Groundnut,Rain-fed,Small/Marginal,12.17,85.06,0
+F_1590,Andhra Pradesh,Gram,Rain-fed,Small/Marginal,58.81,70.65,1
+F_1591,Odisha,Maize,Irrigated,Large,31.61,90.44,1
+F_1592,Andhra Pradesh,Barley,Irrigated,Small/Marginal,62.7,73.83,1
+F_1593,Maharashtra,Wheat,Irrigated,Small/Marginal,80.84,70.07,0
+F_1594,West Bengal,Millet,Rain-fed,Small/Marginal,61.16,83.28,1
+F_1595,Madhya Pradesh,Cotton,Irrigated,Small/Marginal,29.57,56.08,0
+F_1596,Assam,Maize,Rain-fed,Small/Marginal,25.57,27.35,0
+F_1597,Gujarat,Barley,Irrigated,Large,32.74,78.31,0
+F_1598,Jharkhand,Tur,Irrigated,Small/Marginal,16.46,57.2,0
+F_1599,Bihar,Sugarcane,Irrigated,Small/Marginal,18.12,43.36,0
+F_1600,Chhattisgarh,Millet,Irrigated,Small/Marginal,79.07,50.64,0
+F_1601,Chhattisgarh,Sugarcane,Rain-fed,Small/Marginal,38.47,50.13,0
+F_1602,Punjab,Wheat,Irrigated,Small/Marginal,43.6,63.49,0
+F_1603,Rajasthan,Cotton,Irrigated,Small/Marginal,59.4,70.31,1
+F_1604,Rajasthan,Maize,Rain-fed,Small/Marginal,58.97,43.2,0
+F_1605,Chhattisgarh,Maize,Irrigated,Small/Marginal,6.74,55.04,0
+F_1606,West Bengal,Groundnut,Rain-fed,Small/Marginal,83.15,49.33,0
+F_1607,Odisha,Mustard,Irrigated,Small/Marginal,17.73,33.77,0
+F_1608,Chhattisgarh,Groundnut,Irrigated,Large,72.31,82.38,1
+F_1609,Chhattisgarh,Moong,Irrigated,Small/Marginal,77.27,54.79,0
+F_1610,Odisha,Wheat,Rain-fed,Small/Marginal,71.49,24.1,0
+F_1611,Uttar Pradesh,Wheat,Rain-fed,Small/Marginal,57.9,41.93,0
+F_1612,Andhra Pradesh,Cotton,Rain-fed,Small/Marginal,1.46,44.21,0
+F_1613,Madhya Pradesh,Groundnut,Irrigated,Small/Marginal,36.04,92.02,0
+F_1614,Odisha,Barley,Rain-fed,Small/Marginal,60.48,38.58,0
+F_1615,Chhattisgarh,Barley,Rain-fed,Small/Marginal,38.75,18.34,0
+F_1616,Punjab,Cotton,Irrigated,Large,86.35,97.86,1
+F_1617,West Bengal,Gram,Rain-fed,Small/Marginal,30.88,44.71,0
+F_1618,Haryana,Mustard,Irrigated,Large,29.35,100.0,1
+F_1619,Gujarat,Barley,Irrigated,Small/Marginal,26.6,85.05,0
+F_1620,Assam,Jute,Irrigated,Large,33.28,63.99,1
+F_1621,Rajasthan,Moong,Rain-fed,Large,55.74,74.91,0
+F_1622,Assam,Soybean,Rain-fed,Small/Marginal,70.7,4.35,0
+F_1623,Jharkhand,Cotton,Rain-fed,Large,66.26,46.64,0
+F_1624,Bihar,Cotton,Rain-fed,Small/Marginal,80.77,67.99,0
+F_1625,Rajasthan,Rice,Rain-fed,Large,88.59,79.69,1
+F_1626,Tamil Nadu,Moong,Rain-fed,Small/Marginal,81.61,66.07,0
+F_1627,Haryana,Millet,Irrigated,Small/Marginal,1.89,53.89,0
+F_1628,Odisha,Millet,Irrigated,Small/Marginal,73.59,73.44,0
+F_1629,Odisha,Jute,Rain-fed,Large,20.84,53.14,0
+F_1630,Andhra Pradesh,Groundnut,Irrigated,Small/Marginal,13.29,56.64,0
+F_1631,Bihar,Moong,Irrigated,Small/Marginal,63.85,55.79,1
+F_1632,Tamil Nadu,Gram,Irrigated,Small/Marginal,31.97,100.0,1
+F_1633,Punjab,Wheat,Irrigated,Large,5.71,100.0,1
+F_1634,West Bengal,Wheat,Rain-fed,Small/Marginal,13.76,79.46,0
+F_1635,Chhattisgarh,Sugarcane,Rain-fed,Small/Marginal,0.09,33.93,0
+F_1636,Maharashtra,Jute,Rain-fed,Small/Marginal,90.32,37.57,0
+F_1637,Odisha,Cotton,Rain-fed,Small/Marginal,2.46,4.06,0
+F_1638,Tamil Nadu,Jute,Irrigated,Small/Marginal,20.95,69.14,1
+F_1639,Odisha,Jute,Irrigated,Large,41.63,43.7,1
+F_1640,Rajasthan,Tur,Rain-fed,Small/Marginal,35.66,50.87,0
+F_1641,Bihar,Jute,Rain-fed,Small/Marginal,91.17,27.88,0
+F_1642,Haryana,Millet,Irrigated,Small/Marginal,4.03,54.05,1
+F_1643,Rajasthan,Tur,Rain-fed,Small/Marginal,51.22,23.46,0
+F_1644,Jharkhand,Jute,Rain-fed,Small/Marginal,68.05,31.2,1
+F_1645,Chhattisgarh,Mustard,Irrigated,Small/Marginal,93.17,27.53,1
+F_1646,Uttar Pradesh,Soybean,Rain-fed,Small/Marginal,62.04,56.35,0
+F_1647,Chhattisgarh,Wheat,Rain-fed,Large,80.38,51.03,1
+F_1648,Karnataka,Tur,Rain-fed,Small/Marginal,8.37,41.59,0
+F_1649,Uttar Pradesh,Sugarcane,Irrigated,Large,38.59,75.42,1
+F_1650,Gujarat,Moong,Rain-fed,Large,37.39,100.0,0
+F_1651,Tamil Nadu,Soybean,Rain-fed,Small/Marginal,88.63,65.68,1
+F_1652,Rajasthan,Sugarcane,Rain-fed,Large,15.14,91.16,0
+F_1653,Gujarat,Rice,Rain-fed,Small/Marginal,15.19,75.8,0
+F_1654,Rajasthan,Sugarcane,Rain-fed,Small/Marginal,32.86,64.48,0
+F_1655,Chhattisgarh,Wheat,Irrigated,Small/Marginal,5.45,49.09,0
+F_1656,Chhattisgarh,Wheat,Rain-fed,Small/Marginal,18.25,26.68,0
+F_1657,West Bengal,Tur,Irrigated,Small/Marginal,96.52,60.09,1
+F_1658,Gujarat,Jute,Rain-fed,Small/Marginal,42.82,49.91,0
+F_1659,Jharkhand,Maize,Rain-fed,Small/Marginal,63.2,18.74,1
+F_1660,Madhya Pradesh,Rice,Rain-fed,Small/Marginal,72.61,54.99,0
+F_1661,Chhattisgarh,Tur,Rain-fed,Large,36.7,71.61,0
+F_1662,Assam,Mustard,Rain-fed,Small/Marginal,14.72,34.81,0
+F_1663,Punjab,Cotton,Rain-fed,Small/Marginal,20.66,56.26,0
+F_1664,Jharkhand,Barley,Rain-fed,Small/Marginal,31.33,36.11,0
+F_1665,Chhattisgarh,Moong,Irrigated,Small/Marginal,63.61,45.24,1
+F_1666,Madhya Pradesh,Sugarcane,Rain-fed,Small/Marginal,39.83,66.98,0
+F_1667,Bihar,Maize,Irrigated,Large,0.68,57.25,0
+F_1668,Haryana,Jute,Irrigated,Small/Marginal,52.34,41.84,1
+F_1669,Bihar,Millet,Rain-fed,Small/Marginal,92.15,27.77,0
+F_1670,Haryana,Cotton,Rain-fed,Large,81.21,86.6,1
+F_1671,Bihar,Gram,Rain-fed,Large,82.52,28.74,1
+F_1672,Haryana,Groundnut,Rain-fed,Small/Marginal,79.51,58.52,1
+F_1673,Punjab,Maize,Rain-fed,Small/Marginal,32.37,69.32,0
+F_1674,Andhra Pradesh,Millet,Irrigated,Small/Marginal,76.52,54.85,0
+F_1675,Assam,Rice,Rain-fed,Small/Marginal,14.32,38.62,0
+F_1676,West Bengal,Gram,Rain-fed,Small/Marginal,65.77,35.75,1
+F_1677,Gujarat,Tur,Irrigated,Small/Marginal,64.16,88.91,1
+F_1678,Assam,Jute,Rain-fed,Large,2.56,36.14,0
+F_1679,Punjab,Cotton,Irrigated,Large,78.8,92.28,1
+F_1680,Assam,Cotton,Rain-fed,Small/Marginal,90.32,40.0,0
+F_1681,Madhya Pradesh,Cotton,Rain-fed,Small/Marginal,26.74,52.09,0
+F_1682,Tamil Nadu,Rice,Rain-fed,Small/Marginal,81.24,11.74,0
+F_1683,Bihar,Gram,Rain-fed,Small/Marginal,8.24,31.26,0
+F_1684,Tamil Nadu,Sugarcane,Irrigated,Small/Marginal,60.0,55.2,1
+F_1685,Rajasthan,Groundnut,Rain-fed,Large,48.56,67.39,0
+F_1686,Uttar Pradesh,Mustard,Irrigated,Small/Marginal,54.59,83.64,1
+F_1687,Bihar,Rice,Rain-fed,Small/Marginal,92.62,52.89,0
+F_1688,Jharkhand,Barley,Rain-fed,Large,87.13,59.54,1
+F_1689,Assam,Moong,Rain-fed,Small/Marginal,78.51,33.04,0
+F_1690,Tamil Nadu,Moong,Rain-fed,Small/Marginal,27.37,16.16,0
+F_1691,Jharkhand,Groundnut,Irrigated,Small/Marginal,91.18,75.93,0
+F_1692,Tamil Nadu,Wheat,Rain-fed,Small/Marginal,9.75,57.57,0
+F_1693,Rajasthan,Moong,Rain-fed,Large,85.33,83.65,1
+F_1694,Andhra Pradesh,Jute,Rain-fed,Small/Marginal,32.82,46.07,0
+F_1695,Bihar,Rice,Rain-fed,Small/Marginal,5.38,32.13,0
+F_1696,Haryana,Millet,Rain-fed,Small/Marginal,66.94,69.45,0
+F_1697,Madhya Pradesh,Groundnut,Rain-fed,Large,23.13,100.0,0
+F_1698,Assam,Barley,Irrigated,Small/Marginal,24.36,48.63,0
+F_1699,Chhattisgarh,Wheat,Rain-fed,Small/Marginal,30.6,1.18,0
+F_1700,Gujarat,Sugarcane,Rain-fed,Small/Marginal,6.37,49.49,0
+F_1701,Chhattisgarh,Gram,Rain-fed,Small/Marginal,17.71,27.25,0
+F_1702,Uttar Pradesh,Millet,Rain-fed,Small/Marginal,0.51,74.41,0
+F_1703,Rajasthan,Tur,Irrigated,Small/Marginal,44.54,66.22,1
+F_1704,Rajasthan,Groundnut,Rain-fed,Small/Marginal,8.43,88.5,0
+F_1705,Jharkhand,Jute,Rain-fed,Small/Marginal,68.27,16.69,0
+F_1706,Andhra Pradesh,Gram,Irrigated,Large,23.56,78.55,0
+F_1707,Haryana,Millet,Rain-fed,Small/Marginal,94.36,65.7,0
+F_1708,Odisha,Wheat,Rain-fed,Small/Marginal,87.13,29.92,0
+F_1709,Punjab,Millet,Irrigated,Small/Marginal,28.94,56.6,1
+F_1710,Odisha,Gram,Irrigated,Large,78.32,49.77,1
+F_1711,Uttar Pradesh,Soybean,Irrigated,Small/Marginal,80.32,65.37,1
+F_1712,Gujarat,Mustard,Rain-fed,Large,98.66,100.0,1
+F_1713,Bihar,Maize,Rain-fed,Large,59.78,31.5,0
+F_1714,Odisha,Sugarcane,Rain-fed,Small/Marginal,8.2,31.86,0
+F_1715,Bihar,Moong,Rain-fed,Large,64.68,51.48,0
+F_1716,Tamil Nadu,Wheat,Irrigated,Small/Marginal,62.5,63.35,0
+F_1717,Maharashtra,Gram,Rain-fed,Small/Marginal,63.84,73.31,0
+F_1718,Assam,Mustard,Irrigated,Large,30.71,89.44,0
+F_1719,Assam,Mustard,Irrigated,Small/Marginal,85.97,38.0,0
+F_1720,Jharkhand,Tur,Rain-fed,Small/Marginal,95.95,33.96,1
+F_1721,Chhattisgarh,Millet,Rain-fed,Small/Marginal,21.77,48.33,0
+F_1722,Assam,Maize,Irrigated,Small/Marginal,8.82,53.62,0
+F_1723,Tamil Nadu,Mustard,Rain-fed,Large,19.45,74.52,0
+F_1724,Haryana,Maize,Irrigated,Small/Marginal,82.06,100.0,1
+F_1725,Bihar,Millet,Rain-fed,Small/Marginal,67.66,54.51,0
+F_1726,Bihar,Gram,Rain-fed,Small/Marginal,63.6,14.43,1
+F_1727,Tamil Nadu,Jute,Rain-fed,Small/Marginal,40.18,64.68,0
+F_1728,Bihar,Soybean,Irrigated,Large,57.78,45.55,1
+F_1729,Bihar,Mustard,Rain-fed,Small/Marginal,30.79,20.43,0
+F_1730,Odisha,Rice,Irrigated,Large,47.72,56.92,0
+F_1731,Jharkhand,Soybean,Rain-fed,Small/Marginal,79.31,50.35,0
+F_1732,Karnataka,Millet,Irrigated,Small/Marginal,98.12,86.37,1
+F_1733,Assam,Tur,Irrigated,Small/Marginal,93.25,40.64,1
+F_1734,Chhattisgarh,Sugarcane,Rain-fed,Small/Marginal,93.39,18.18,0
+F_1735,Gujarat,Rice,Rain-fed,Small/Marginal,40.22,43.93,0
+F_1736,Andhra Pradesh,Wheat,Irrigated,Small/Marginal,46.88,48.25,0
+F_1737,Uttar Pradesh,Moong,Rain-fed,Small/Marginal,70.56,50.27,0
+F_1738,Tamil Nadu,Tur,Irrigated,Large,92.22,100.0,1
+F_1739,West Bengal,Soybean,Rain-fed,Small/Marginal,14.2,42.98,0
+F_1740,Karnataka,Millet,Irrigated,Small/Marginal,30.42,83.99,1
+F_1741,Rajasthan,Soybean,Irrigated,Small/Marginal,13.92,73.3,0
+F_1742,Uttar Pradesh,Moong,Irrigated,Small/Marginal,61.2,71.17,0
+F_1743,Gujarat,Mustard,Rain-fed,Small/Marginal,30.63,47.74,0
+F_1744,Chhattisgarh,Tur,Rain-fed,Large,32.61,71.94,0
+F_1745,Maharashtra,Gram,Rain-fed,Large,7.09,82.35,0
+F_1746,Rajasthan,Rice,Rain-fed,Small/Marginal,34.98,54.55,0
+F_1747,Haryana,Barley,Rain-fed,Small/Marginal,86.25,52.36,0
+F_1748,Jharkhand,Groundnut,Rain-fed,Small/Marginal,23.31,17.06,0
+F_1749,Rajasthan,Soybean,Irrigated,Small/Marginal,69.52,78.39,1
+F_1750,Maharashtra,Moong,Rain-fed,Small/Marginal,62.96,61.13,1
+F_1751,Chhattisgarh,Wheat,Rain-fed,Small/Marginal,86.35,21.71,1
+F_1752,Tamil Nadu,Wheat,Irrigated,Small/Marginal,13.23,76.7,1
+F_1753,Andhra Pradesh,Cotton,Rain-fed,Small/Marginal,97.76,64.98,1
+F_1754,Odisha,Tur,Rain-fed,Large,58.26,46.29,0
+F_1755,West Bengal,Soybean,Irrigated,Small/Marginal,99.55,75.08,1
+F_1756,Madhya Pradesh,Groundnut,Irrigated,Small/Marginal,91.15,63.69,0
+F_1757,Tamil Nadu,Jute,Rain-fed,Small/Marginal,22.15,48.65,0
+F_1758,Gujarat,Moong,Rain-fed,Small/Marginal,5.62,57.19,0
+F_1759,Assam,Mustard,Irrigated,Large,25.56,60.27,0
+F_1760,Tamil Nadu,Maize,Rain-fed,Large,52.76,80.64,0
+F_1761,Andhra Pradesh,Gram,Rain-fed,Large,17.16,86.82,0
+F_1762,Bihar,Groundnut,Rain-fed,Small/Marginal,16.75,8.07,0
+F_1763,Odisha,Maize,Rain-fed,Small/Marginal,46.26,40.3,0
+F_1764,Jharkhand,Tur,Rain-fed,Small/Marginal,3.33,48.74,0
+F_1765,Tamil Nadu,Maize,Rain-fed,Large,12.19,86.32,0
+F_1766,Madhya Pradesh,Barley,Irrigated,Small/Marginal,41.59,82.0,0
+F_1767,Bihar,Cotton,Irrigated,Large,6.31,44.51,0
+F_1768,Odisha,Groundnut,Rain-fed,Large,39.68,87.45,0
+F_1769,Rajasthan,Tur,Irrigated,Small/Marginal,47.4,87.17,0
+F_1770,Chhattisgarh,Groundnut,Irrigated,Small/Marginal,45.13,47.91,0
+F_1771,Uttar Pradesh,Barley,Rain-fed,Small/Marginal,86.92,71.39,1
+F_1772,Gujarat,Soybean,Rain-fed,Large,53.01,63.42,1
+F_1773,Madhya Pradesh,Soybean,Irrigated,Small/Marginal,46.8,83.0,1
+F_1774,Rajasthan,Soybean,Rain-fed,Large,41.07,74.45,0
+F_1775,Madhya Pradesh,Sugarcane,Irrigated,Small/Marginal,81.76,65.08,1
+F_1776,Maharashtra,Maize,Rain-fed,Small/Marginal,89.51,33.34,1
+F_1777,Bihar,Sugarcane,Irrigated,Large,85.32,90.55,1
+F_1778,Punjab,Cotton,Rain-fed,Small/Marginal,67.35,58.78,0
+F_1779,Gujarat,Gram,Rain-fed,Small/Marginal,13.74,73.92,0
+F_1780,Rajasthan,Barley,Irrigated,Small/Marginal,27.69,72.35,1
+F_1781,Tamil Nadu,Tur,Rain-fed,Small/Marginal,4.61,48.71,0
+F_1782,Gujarat,Groundnut,Rain-fed,Large,93.08,80.8,0
+F_1783,Bihar,Mustard,Rain-fed,Small/Marginal,66.08,19.96,0
+F_1784,Assam,Tur,Rain-fed,Large,74.64,63.04,0
+F_1785,Chhattisgarh,Maize,Rain-fed,Large,31.16,63.29,0
+F_1786,Jharkhand,Sugarcane,Irrigated,Small/Marginal,84.57,32.6,1
+F_1787,Maharashtra,Sugarcane,Rain-fed,Small/Marginal,25.96,66.55,0
+F_1788,Jharkhand,Millet,Irrigated,Small/Marginal,0.16,56.43,0
+F_1789,Gujarat,Sugarcane,Irrigated,Small/Marginal,37.64,63.2,0
+F_1790,Assam,Gram,Irrigated,Large,57.08,67.28,1
+F_1791,Odisha,Jute,Rain-fed,Small/Marginal,47.87,38.67,0
+F_1792,Odisha,Groundnut,Irrigated,Small/Marginal,86.21,26.75,1
+F_1793,Jharkhand,Jute,Rain-fed,Small/Marginal,10.54,44.73,0
+F_1794,Tamil Nadu,Groundnut,Irrigated,Small/Marginal,55.38,84.47,1
+F_1795,Gujarat,Barley,Irrigated,Small/Marginal,51.3,82.94,1
+F_1796,Odisha,Groundnut,Irrigated,Large,28.14,62.56,0
+F_1797,Assam,Jute,Rain-fed,Small/Marginal,82.22,43.21,0
+F_1798,Bihar,Tur,Irrigated,Small/Marginal,75.28,41.78,1
+F_1799,Punjab,Groundnut,Rain-fed,Small/Marginal,73.29,71.78,1
+F_1800,Karnataka,Barley,Irrigated,Small/Marginal,87.62,56.74,1
+F_1801,Bihar,Barley,Irrigated,Small/Marginal,72.28,48.46,0
+F_1802,Chhattisgarh,Cotton,Rain-fed,Small/Marginal,23.18,10.81,0
+F_1803,Haryana,Groundnut,Irrigated,Small/Marginal,70.56,60.91,0
+F_1804,Haryana,Mustard,Rain-fed,Small/Marginal,30.77,44.44,0
+F_1805,Odisha,Millet,Rain-fed,Small/Marginal,24.22,20.61,0
+F_1806,Bihar,Soybean,Rain-fed,Small/Marginal,7.3,17.48,0
+F_1807,Assam,Wheat,Rain-fed,Large,74.4,48.03,1
+F_1808,Odisha,Barley,Irrigated,Large,71.1,57.05,1
+F_1809,Jharkhand,Rice,Rain-fed,Small/Marginal,23.45,48.42,0
+F_1810,Odisha,Soybean,Rain-fed,Large,74.94,35.01,1
+F_1811,Odisha,Gram,Irrigated,Large,91.78,68.64,1
+F_1812,Bihar,Maize,Irrigated,Small/Marginal,10.8,46.0,0
+F_1813,Chhattisgarh,Groundnut,Irrigated,Small/Marginal,23.26,33.07,0
+F_1814,Chhattisgarh,Jute,Irrigated,Large,75.03,69.08,1
+F_1815,Jharkhand,Wheat,Irrigated,Small/Marginal,27.45,63.44,0
+F_1816,Gujarat,Rice,Rain-fed,Small/Marginal,62.47,73.89,1
+F_1817,Chhattisgarh,Soybean,Rain-fed,Large,8.12,53.71,0
+F_1818,Tamil Nadu,Groundnut,Irrigated,Small/Marginal,45.22,72.06,0
+F_1819,Jharkhand,Cotton,Rain-fed,Small/Marginal,73.91,51.13,0
+F_1820,Bihar,Maize,Irrigated,Large,68.65,75.28,0
+F_1821,Gujarat,Wheat,Rain-fed,Small/Marginal,81.51,69.7,0
+F_1822,Odisha,Millet,Rain-fed,Small/Marginal,87.75,10.0,1
+F_1823,Maharashtra,Cotton,Rain-fed,Small/Marginal,77.32,42.27,0
+F_1824,West Bengal,Rice,Irrigated,Small/Marginal,67.16,51.47,0
+F_1825,Assam,Gram,Rain-fed,Large,3.17,77.85,0
+F_1826,Uttar Pradesh,Wheat,Irrigated,Small/Marginal,53.5,56.06,0
+F_1827,Uttar Pradesh,Cotton,Rain-fed,Small/Marginal,3.77,56.08,0
+F_1828,Assam,Maize,Rain-fed,Small/Marginal,80.81,34.43,1
+F_1829,Gujarat,Millet,Irrigated,Small/Marginal,32.07,65.85,0
+F_1830,Punjab,Cotton,Irrigated,Small/Marginal,56.24,52.5,1
+F_1831,Assam,Sugarcane,Rain-fed,Large,27.94,78.21,0
+F_1832,Jharkhand,Millet,Irrigated,Small/Marginal,78.25,50.76,1
+F_1833,Gujarat,Rice,Rain-fed,Small/Marginal,88.65,68.52,1
+F_1834,Odisha,Gram,Rain-fed,Small/Marginal,39.86,28.82,0
+F_1835,Punjab,Maize,Rain-fed,Large,86.29,70.32,1
+F_1836,Chhattisgarh,Mustard,Irrigated,Large,26.71,90.61,0
+F_1837,Bihar,Groundnut,Irrigated,Large,53.47,60.6,1
+F_1838,Jharkhand,Jute,Rain-fed,Large,85.88,52.57,1
+F_1839,Jharkhand,Moong,Irrigated,Large,32.59,70.18,0
+F_1840,Jharkhand,Tur,Rain-fed,Small/Marginal,95.4,19.99,1
+F_1841,Madhya Pradesh,Tur,Rain-fed,Small/Marginal,12.19,66.32,0
+F_1842,Assam,Jute,Rain-fed,Small/Marginal,1.83,44.99,0
+F_1843,Uttar Pradesh,Moong,Rain-fed,Large,90.41,78.77,1
+F_1844,Rajasthan,Jute,Rain-fed,Large,6.86,66.8,0
+F_1845,West Bengal,Wheat,Rain-fed,Small/Marginal,99.19,33.11,1
+F_1846,Rajasthan,Rice,Irrigated,Large,95.14,91.74,1
+F_1847,Odisha,Maize,Rain-fed,Small/Marginal,13.7,45.46,0
+F_1848,Chhattisgarh,Millet,Rain-fed,Small/Marginal,53.76,25.93,0
+F_1849,Chhattisgarh,Wheat,Rain-fed,Small/Marginal,18.49,46.65,0
+F_1850,Maharashtra,Rice,Rain-fed,Small/Marginal,42.82,83.01,1
+F_1851,Maharashtra,Groundnut,Rain-fed,Small/Marginal,6.14,70.13,0
+F_1852,Bihar,Sugarcane,Irrigated,Small/Marginal,22.39,38.97,0
+F_1853,Chhattisgarh,Tur,Rain-fed,Small/Marginal,36.33,13.42,0
+F_1854,Uttar Pradesh,Maize,Irrigated,Small/Marginal,43.86,71.56,1
+F_1855,Karnataka,Jute,Irrigated,Large,97.75,100.0,1
+F_1856,Chhattisgarh,Cotton,Rain-fed,Large,80.79,50.24,0
+F_1857,Bihar,Mustard,Irrigated,Large,73.74,39.75,1
+F_1858,Gujarat,Maize,Rain-fed,Small/Marginal,53.7,47.41,1
+F_1859,Chhattisgarh,Barley,Irrigated,Small/Marginal,84.0,62.65,0
+F_1860,Tamil Nadu,Gram,Rain-fed,Small/Marginal,33.93,74.93,0
+F_1861,Rajasthan,Moong,Rain-fed,Small/Marginal,70.89,39.45,1
+F_1862,Rajasthan,Rice,Rain-fed,Small/Marginal,99.38,39.22,0
+F_1863,Uttar Pradesh,Soybean,Rain-fed,Small/Marginal,31.46,21.04,0
+F_1864,Madhya Pradesh,Groundnut,Rain-fed,Small/Marginal,67.4,65.86,0
+F_1865,Bihar,Sugarcane,Rain-fed,Small/Marginal,84.43,12.25,0
+F_1866,Odisha,Groundnut,Rain-fed,Small/Marginal,91.58,16.16,0
+F_1867,Chhattisgarh,Maize,Irrigated,Small/Marginal,71.79,68.31,0
+F_1868,Haryana,Tur,Irrigated,Small/Marginal,28.36,74.49,0
+F_1869,Tamil Nadu,Moong,Rain-fed,Small/Marginal,32.63,44.82,0
+F_1870,Jharkhand,Soybean,Rain-fed,Small/Marginal,2.08,35.46,0
+F_1871,West Bengal,Barley,Irrigated,Small/Marginal,76.09,52.93,1
+F_1872,Madhya Pradesh,Millet,Irrigated,Small/Marginal,4.27,81.25,0
+F_1873,Bihar,Cotton,Irrigated,Small/Marginal,86.47,32.25,0
+F_1874,Assam,Soybean,Rain-fed,Small/Marginal,11.87,18.15,0
+F_1875,Bihar,Rice,Rain-fed,Small/Marginal,17.19,54.19,0
+F_1876,West Bengal,Jute,Rain-fed,Small/Marginal,47.65,66.37,0
+F_1877,Maharashtra,Barley,Rain-fed,Small/Marginal,73.79,34.9,1
+F_1878,Rajasthan,Cotton,Irrigated,Large,13.9,100.0,0
+F_1879,Jharkhand,Mustard,Irrigated,Small/Marginal,44.01,21.78,0
+F_1880,Jharkhand,Sugarcane,Rain-fed,Small/Marginal,48.29,45.45,0
+F_1881,Madhya Pradesh,Jute,Irrigated,Small/Marginal,21.23,80.21,0
+F_1882,Gujarat,Maize,Rain-fed,Small/Marginal,11.56,73.85,0
+F_1883,Chhattisgarh,Soybean,Rain-fed,Small/Marginal,83.64,27.0,0
+F_1884,Rajasthan,Tur,Rain-fed,Small/Marginal,50.25,50.81,1
+F_1885,West Bengal,Cotton,Irrigated,Large,1.44,68.91,0
+F_1886,Rajasthan,Gram,Rain-fed,Small/Marginal,80.3,23.21,0
+F_1887,Tamil Nadu,Wheat,Irrigated,Small/Marginal,98.08,88.51,1
+F_1888,Bihar,Gram,Irrigated,Small/Marginal,60.59,37.46,1
+F_1889,Assam,Millet,Rain-fed,Large,50.37,29.3,0
+F_1890,Gujarat,Gram,Rain-fed,Small/Marginal,87.84,38.56,1
+F_1891,Bihar,Mustard,Irrigated,Large,95.25,46.17,1
+F_1892,Assam,Millet,Rain-fed,Small/Marginal,75.45,25.15,0
+F_1893,Assam,Barley,Irrigated,Large,44.55,70.22,0
+F_1894,Odisha,Sugarcane,Irrigated,Large,59.22,79.66,1
+F_1895,Maharashtra,Barley,Rain-fed,Small/Marginal,70.09,46.19,1
+F_1896,Chhattisgarh,Wheat,Rain-fed,Small/Marginal,19.43,32.92,0
+F_1897,Haryana,Rice,Irrigated,Small/Marginal,44.72,85.36,0
+F_1898,Karnataka,Sugarcane,Irrigated,Small/Marginal,82.98,55.07,1
+F_1899,Tamil Nadu,Gram,Rain-fed,Small/Marginal,65.47,20.17,0
+F_1900,Bihar,Tur,Rain-fed,Small/Marginal,41.12,40.06,0
+F_1901,Odisha,Groundnut,Rain-fed,Small/Marginal,66.34,67.54,0
+F_1902,West Bengal,Rice,Irrigated,Small/Marginal,11.82,69.89,0
+F_1903,Karnataka,Sugarcane,Irrigated,Large,40.15,98.03,1
+F_1904,Andhra Pradesh,Sugarcane,Irrigated,Small/Marginal,79.31,68.83,1
+F_1905,Assam,Wheat,Rain-fed,Small/Marginal,22.05,27.2,0
+F_1906,Karnataka,Maize,Rain-fed,Small/Marginal,18.6,35.73,0
+F_1907,Chhattisgarh,Gram,Irrigated,Large,95.08,83.23,1
+F_1908,Bihar,Wheat,Rain-fed,Small/Marginal,20.99,21.13,0
+F_1909,Chhattisgarh,Sugarcane,Rain-fed,Small/Marginal,26.09,15.37,0
+F_1910,Punjab,Cotton,Rain-fed,Small/Marginal,96.96,62.41,0
+F_1911,Bihar,Rice,Irrigated,Small/Marginal,73.47,45.44,1
+F_1912,Chhattisgarh,Wheat,Irrigated,Small/Marginal,69.96,49.72,1
+F_1913,Bihar,Maize,Rain-fed,Large,85.29,45.11,0
+F_1914,Chhattisgarh,Moong,Rain-fed,Large,11.58,38.43,0
+F_1915,West Bengal,Soybean,Irrigated,Small/Marginal,70.6,51.91,0
+F_1916,Jharkhand,Barley,Irrigated,Large,50.37,74.05,1
+F_1917,Assam,Sugarcane,Rain-fed,Small/Marginal,82.92,24.26,1
+F_1918,Bihar,Gram,Rain-fed,Small/Marginal,50.81,18.22,0
+F_1919,Odisha,Groundnut,Rain-fed,Large,62.02,57.37,0
+F_1920,Rajasthan,Soybean,Irrigated,Small/Marginal,47.77,50.59,1
+F_1921,Assam,Millet,Rain-fed,Large,47.82,53.74,1
+F_1922,Uttar Pradesh,Tur,Rain-fed,Small/Marginal,76.8,74.54,1
+F_1923,Odisha,Tur,Irrigated,Small/Marginal,62.86,83.96,0
+F_1924,Madhya Pradesh,Jute,Irrigated,Small/Marginal,63.33,80.07,1
+F_1925,Madhya Pradesh,Maize,Rain-fed,Small/Marginal,45.03,72.68,0
+F_1926,Tamil Nadu,Groundnut,Irrigated,Small/Marginal,53.11,71.96,0
+F_1927,Andhra Pradesh,Moong,Rain-fed,Large,74.57,72.83,0
+F_1928,Maharashtra,Moong,Rain-fed,Small/Marginal,82.59,42.72,1
+F_1929,Jharkhand,Jute,Rain-fed,Large,69.66,55.16,0
+F_1930,Karnataka,Maize,Irrigated,Large,92.41,83.04,1
+F_1931,Maharashtra,Gram,Rain-fed,Small/Marginal,82.03,40.79,0
+F_1932,Odisha,Cotton,Irrigated,Small/Marginal,56.19,14.85,1
+F_1933,Assam,Gram,Irrigated,Small/Marginal,67.14,46.42,0
+F_1934,Andhra Pradesh,Barley,Irrigated,Small/Marginal,92.63,66.45,0
+F_1935,Andhra Pradesh,Soybean,Irrigated,Large,61.92,96.96,1
+F_1936,Bihar,Rice,Irrigated,Small/Marginal,82.48,75.73,0
+F_1937,Rajasthan,Moong,Rain-fed,Small/Marginal,68.88,37.98,0
+F_1938,Bihar,Tur,Rain-fed,Small/Marginal,55.19,17.75,1
+F_1939,Madhya Pradesh,Maize,Irrigated,Small/Marginal,24.18,84.0,1
+F_1940,Haryana,Gram,Rain-fed,Small/Marginal,42.6,71.41,0
+F_1941,Maharashtra,Rice,Irrigated,Small/Marginal,96.77,61.8,1
+F_1942,Madhya Pradesh,Barley,Irrigated,Small/Marginal,65.78,71.56,1
+F_1943,Tamil Nadu,Sugarcane,Rain-fed,Small/Marginal,56.44,59.72,0
+F_1944,Odisha,Millet,Irrigated,Small/Marginal,93.3,38.94,1
+F_1945,Odisha,Soybean,Rain-fed,Small/Marginal,58.65,18.05,0
+F_1946,Jharkhand,Barley,Rain-fed,Small/Marginal,52.61,10.42,0
+F_1947,Jharkhand,Barley,Rain-fed,Large,75.93,53.27,1
+F_1948,Tamil Nadu,Gram,Rain-fed,Small/Marginal,71.27,66.95,1
+F_1949,Jharkhand,Cotton,Irrigated,Small/Marginal,19.32,56.94,0
+F_1950,Karnataka,Jute,Irrigated,Small/Marginal,47.13,57.15,0
+F_1951,Madhya Pradesh,Moong,Irrigated,Small/Marginal,47.25,58.95,0
+F_1952,Gujarat,Millet,Rain-fed,Large,37.82,91.79,1
+F_1953,Bihar,Soybean,Rain-fed,Small/Marginal,51.73,50.31,0
+F_1954,Maharashtra,Sugarcane,Irrigated,Small/Marginal,41.31,66.33,0
+F_1955,Bihar,Sugarcane,Rain-fed,Large,19.93,62.38,0
+F_1956,Maharashtra,Wheat,Irrigated,Small/Marginal,41.24,63.15,1
+F_1957,Chhattisgarh,Barley,Irrigated,Small/Marginal,7.23,67.37,0
+F_1958,Assam,Maize,Irrigated,Small/Marginal,57.58,50.89,0
+F_1959,Odisha,Cotton,Irrigated,Small/Marginal,85.37,52.41,1
+F_1960,Haryana,Millet,Rain-fed,Small/Marginal,72.53,61.63,0
+F_1961,Bihar,Gram,Irrigated,Small/Marginal,36.04,45.68,0
+F_1962,Haryana,Sugarcane,Rain-fed,Large,8.71,82.19,0
+F_1963,Bihar,Soybean,Irrigated,Large,20.21,86.95,0
+F_1964,Uttar Pradesh,Wheat,Rain-fed,Small/Marginal,54.55,43.58,1
+F_1965,Assam,Tur,Irrigated,Small/Marginal,20.71,46.65,0
+F_1966,Tamil Nadu,Moong,Irrigated,Large,54.4,90.67,1
+F_1967,Gujarat,Soybean,Rain-fed,Small/Marginal,23.16,67.69,0
+F_1968,Assam,Cotton,Rain-fed,Large,84.89,62.53,0
+F_1969,Maharashtra,Maize,Irrigated,Large,39.73,85.05,0
+F_1970,Assam,Wheat,Rain-fed,Small/Marginal,24.56,30.96,0
+F_1971,Odisha,Tur,Rain-fed,Small/Marginal,81.23,25.4,1
+F_1972,Madhya Pradesh,Wheat,Rain-fed,Small/Marginal,34.28,54.54,0
+F_1973,Jharkhand,Jute,Rain-fed,Small/Marginal,11.15,19.71,0
+F_1974,Rajasthan,Millet,Irrigated,Large,57.04,85.52,0
+F_1975,Odisha,Wheat,Rain-fed,Small/Marginal,58.16,1.83,1
+F_1976,Bihar,Mustard,Rain-fed,Large,71.47,35.05,1
+F_1977,Bihar,Jute,Rain-fed,Small/Marginal,24.02,54.39,0
+F_1978,Assam,Jute,Rain-fed,Small/Marginal,44.38,20.1,0
+F_1979,Odisha,Cotton,Rain-fed,Small/Marginal,28.24,46.23,0
+F_1980,Karnataka,Mustard,Rain-fed,Small/Marginal,8.1,72.51,0
+F_1981,Uttar Pradesh,Rice,Rain-fed,Small/Marginal,87.66,42.61,1
+F_1982,Chhattisgarh,Soybean,Rain-fed,Small/Marginal,72.89,0.18,1
+F_1983,Chhattisgarh,Moong,Irrigated,Large,30.15,41.45,0
+F_1984,Maharashtra,Maize,Rain-fed,Small/Marginal,59.94,42.87,1
+F_1985,Andhra Pradesh,Groundnut,Irrigated,Small/Marginal,20.13,98.34,1
+F_1986,Gujarat,Soybean,Rain-fed,Small/Marginal,89.02,48.84,1
+F_1987,Uttar Pradesh,Wheat,Rain-fed,Large,11.49,82.18,1
+F_1988,Haryana,Maize,Irrigated,Small/Marginal,0.38,89.55,0
+F_1989,Haryana,Sugarcane,Rain-fed,Small/Marginal,50.2,56.65,1
+F_1990,Punjab,Rice,Irrigated,Large,58.31,96.14,1
+F_1991,Assam,Sugarcane,Irrigated,Large,57.9,79.34,0
+F_1992,Punjab,Mustard,Rain-fed,Small/Marginal,5.45,44.18,0
+F_1993,Odisha,Sugarcane,Irrigated,Small/Marginal,31.4,46.18,0
+F_1994,Chhattisgarh,Gram,Irrigated,Small/Marginal,49.92,49.38,0
+F_1995,Bihar,Millet,Rain-fed,Small/Marginal,21.66,41.33,0
+F_1996,Assam,Soybean,Rain-fed,Large,87.26,62.71,1
+F_1997,Bihar,Groundnut,Rain-fed,Small/Marginal,8.71,47.84,0
+F_1998,Andhra Pradesh,Gram,Irrigated,Large,48.74,87.0,1
+F_1999,Madhya Pradesh,Cotton,Irrigated,Small/Marginal,69.14,73.17,0
+F_2000,Haryana,Groundnut,Irrigated,Small/Marginal,26.18,32.67,0
+F_2001,Assam,Sugarcane,Irrigated,Small/Marginal,62.42,37.36,0
+F_2002,Bihar,Wheat,Rain-fed,Small/Marginal,82.94,18.66,0
+F_2003,Karnataka,Tur,Rain-fed,Large,19.03,93.01,0
+F_2004,Bihar,Rice,Irrigated,Large,91.72,71.17,1
+F_2005,Tamil Nadu,Moong,Rain-fed,Small/Marginal,55.36,60.18,0
+F_2006,Karnataka,Barley,Irrigated,Small/Marginal,29.92,64.56,0
+F_2007,Assam,Groundnut,Rain-fed,Small/Marginal,43.09,37.48,0
+F_2008,Assam,Moong,Rain-fed,Small/Marginal,31.22,38.62,0
+F_2009,Karnataka,Moong,Irrigated,Small/Marginal,72.51,61.96,1
+F_2010,Andhra Pradesh,Sugarcane,Irrigated,Small/Marginal,79.63,65.04,1
+F_2011,Haryana,Rice,Rain-fed,Small/Marginal,83.29,51.75,0
+F_2012,Andhra Pradesh,Maize,Irrigated,Large,98.58,95.44,1
+F_2013,Punjab,Soybean,Rain-fed,Small/Marginal,79.13,37.63,0
+F_2014,Gujarat,Moong,Irrigated,Small/Marginal,60.14,54.55,1
+F_2015,Assam,Jute,Irrigated,Small/Marginal,33.92,41.88,0
+F_2016,Rajasthan,Millet,Irrigated,Small/Marginal,54.46,86.45,0
+F_2017,Uttar Pradesh,Rice,Irrigated,Small/Marginal,4.11,80.41,0
+F_2018,Chhattisgarh,Wheat,Rain-fed,Large,74.48,40.59,0
+F_2019,Odisha,Mustard,Rain-fed,Large,44.6,62.96,1
+F_2020,Tamil Nadu,Wheat,Irrigated,Small/Marginal,2.0,58.35,0
+F_2021,Jharkhand,Rice,Rain-fed,Small/Marginal,6.25,16.55,0
+F_2022,Odisha,Wheat,Irrigated,Small/Marginal,38.75,54.34,0
+F_2023,Maharashtra,Moong,Rain-fed,Large,58.34,67.68,0
+F_2024,Bihar,Soybean,Irrigated,Small/Marginal,46.42,30.41,1
+F_2025,Tamil Nadu,Wheat,Irrigated,Small/Marginal,61.92,70.54,1
+F_2026,Haryana,Groundnut,Irrigated,Small/Marginal,48.03,60.16,0
+F_2027,Uttar Pradesh,Jute,Rain-fed,Small/Marginal,66.17,29.36,0
+F_2028,Madhya Pradesh,Wheat,Irrigated,Small/Marginal,21.91,63.6,0
+F_2029,Karnataka,Jute,Rain-fed,Large,11.28,64.3,0
+F_2030,Karnataka,Tur,Rain-fed,Small/Marginal,59.64,55.3,1
+F_2031,Chhattisgarh,Sugarcane,Irrigated,Small/Marginal,48.47,75.0,1
+F_2032,Rajasthan,Cotton,Irrigated,Small/Marginal,2.69,97.86,0
+F_2033,Uttar Pradesh,Soybean,Irrigated,Large,38.05,100.0,0
+F_2034,West Bengal,Moong,Rain-fed,Large,10.61,79.66,0
+F_2035,Rajasthan,Cotton,Rain-fed,Small/Marginal,53.14,53.93,0
+F_2036,Uttar Pradesh,Moong,Rain-fed,Large,39.58,85.26,0
+F_2037,Maharashtra,Sugarcane,Rain-fed,Small/Marginal,61.32,36.33,1
+F_2038,Rajasthan,Moong,Rain-fed,Small/Marginal,80.56,51.06,0
+F_2039,Bihar,Tur,Irrigated,Small/Marginal,29.97,48.32,0
+F_2040,Rajasthan,Soybean,Rain-fed,Small/Marginal,96.21,68.96,1
+F_2041,Karnataka,Rice,Irrigated,Small/Marginal,53.56,48.0,1
+F_2042,Tamil Nadu,Rice,Irrigated,Small/Marginal,61.83,100.0,1
+F_2043,Madhya Pradesh,Jute,Irrigated,Small/Marginal,68.07,72.07,1
+F_2044,Maharashtra,Sugarcane,Irrigated,Large,66.67,86.96,1
+F_2045,West Bengal,Jute,Irrigated,Small/Marginal,51.1,66.86,1
+F_2046,Maharashtra,Tur,Rain-fed,Small/Marginal,42.88,58.71,0
+F_2047,Uttar Pradesh,Millet,Rain-fed,Small/Marginal,5.38,21.84,0
+F_2048,Assam,Wheat,Rain-fed,Small/Marginal,2.21,23.77,0
+F_2049,Punjab,Barley,Rain-fed,Small/Marginal,35.8,66.27,0
+F_2050,Odisha,Millet,Irrigated,Small/Marginal,33.37,29.82,0
+F_2051,Chhattisgarh,Wheat,Rain-fed,Large,38.77,86.43,0
+F_2052,Assam,Soybean,Irrigated,Small/Marginal,13.84,47.67,0
+F_2053,Haryana,Jute,Irrigated,Small/Marginal,73.82,52.7,0
+F_2054,Punjab,Soybean,Rain-fed,Large,85.7,65.37,1
+F_2055,Haryana,Tur,Irrigated,Small/Marginal,93.87,80.46,1
+F_2056,Haryana,Gram,Rain-fed,Small/Marginal,49.24,60.72,0
+F_2057,Punjab,Gram,Rain-fed,Small/Marginal,70.09,60.29,1
+F_2058,Uttar Pradesh,Gram,Irrigated,Small/Marginal,85.56,71.61,1
+F_2059,Gujarat,Tur,Rain-fed,Small/Marginal,41.83,57.4,0
+F_2060,Jharkhand,Moong,Irrigated,Small/Marginal,30.94,52.04,0
+F_2061,Maharashtra,Soybean,Rain-fed,Small/Marginal,93.67,64.25,0
+F_2062,Odisha,Wheat,Rain-fed,Small/Marginal,51.57,31.81,0
+F_2063,Chhattisgarh,Tur,Irrigated,Large,49.73,68.6,0
+F_2064,Madhya Pradesh,Gram,Rain-fed,Small/Marginal,17.84,41.31,0
+F_2065,Tamil Nadu,Sugarcane,Rain-fed,Small/Marginal,10.82,54.91,0
+F_2066,Punjab,Tur,Rain-fed,Large,84.21,78.85,0
+F_2067,Uttar Pradesh,Mustard,Irrigated,Small/Marginal,61.41,72.95,0
+F_2068,Chhattisgarh,Moong,Rain-fed,Small/Marginal,32.58,23.14,0
+F_2069,Bihar,Wheat,Rain-fed,Large,19.17,56.66,0
+F_2070,Tamil Nadu,Gram,Rain-fed,Small/Marginal,55.55,56.4,1
+F_2071,Gujarat,Maize,Rain-fed,Small/Marginal,58.39,56.54,1
+F_2072,Jharkhand,Rice,Irrigated,Large,20.7,55.24,0
+F_2073,Assam,Rice,Irrigated,Small/Marginal,85.14,26.22,1
+F_2074,Punjab,Millet,Rain-fed,Small/Marginal,8.43,80.43,0
+F_2075,Odisha,Rice,Irrigated,Small/Marginal,35.61,55.56,0
+F_2076,Maharashtra,Wheat,Rain-fed,Small/Marginal,68.04,51.71,0
+F_2077,Odisha,Groundnut,Irrigated,Small/Marginal,27.41,45.3,0
+F_2078,Assam,Jute,Irrigated,Large,82.77,64.11,1
+F_2079,Bihar,Wheat,Rain-fed,Small/Marginal,73.99,33.17,0
+F_2080,Jharkhand,Moong,Irrigated,Large,78.9,72.63,0
+F_2081,Gujarat,Mustard,Irrigated,Small/Marginal,11.91,73.17,1
+F_2082,Assam,Wheat,Rain-fed,Large,14.05,41.59,0
+F_2083,West Bengal,Tur,Rain-fed,Small/Marginal,28.65,62.86,0
+F_2084,Gujarat,Barley,Rain-fed,Small/Marginal,51.81,56.31,1
+F_2085,Assam,Jute,Irrigated,Small/Marginal,74.8,82.61,0
+F_2086,Assam,Maize,Irrigated,Small/Marginal,83.65,47.57,0
+F_2087,Tamil Nadu,Rice,Irrigated,Small/Marginal,70.43,31.47,1
+F_2088,Haryana,Jute,Irrigated,Large,92.86,85.36,1
+F_2089,Maharashtra,Rice,Irrigated,Large,73.87,100.0,1
+F_2090,Bihar,Millet,Irrigated,Small/Marginal,30.63,47.38,0
+F_2091,Jharkhand,Jute,Irrigated,Small/Marginal,26.51,59.87,0
+F_2092,Bihar,Gram,Rain-fed,Small/Marginal,69.62,38.47,1
+F_2093,Odisha,Moong,Rain-fed,Small/Marginal,19.29,29.89,0
+F_2094,Haryana,Moong,Irrigated,Small/Marginal,9.27,79.06,0
+F_2095,Chhattisgarh,Rice,Rain-fed,Large,53.22,25.15,1
+F_2096,Punjab,Maize,Irrigated,Large,82.16,100.0,1
+F_2097,Assam,Gram,Rain-fed,Small/Marginal,10.14,15.9,0
+F_2098,Bihar,Cotton,Rain-fed,Small/Marginal,79.19,15.64,1
+F_2099,Bihar,Soybean,Irrigated,Small/Marginal,81.16,59.2,1
+F_2100,Karnataka,Soybean,Rain-fed,Small/Marginal,48.23,43.86,1
+F_2101,Jharkhand,Maize,Rain-fed,Small/Marginal,5.73,8.09,0

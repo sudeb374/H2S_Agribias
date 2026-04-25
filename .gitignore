@@ -1,0 +1,15 @@
+# Ignore all Markdown files
+*.md
+
+# Environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
