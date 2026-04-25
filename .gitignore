@@ -1,5 +1,6 @@
 # Ignore all Markdown files
 *.md
+!README.md
 
 # Environments
 venv/
